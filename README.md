@@ -4,13 +4,19 @@
 
 Server emulator for Yitien Chronicles. R2Games published Yitien globally in 2013 and closed it in 2016.
 
-This repository uses the only artifact of Yitien we could find on Baidu Cloud. It is the original version of Yitien from CN (倚天OL). We don't have information on when this version of files was released, and how different the Chinese version is compared to the global version.
+This repository uses the only artifact of Yitien we could find on the internet, which was obtained from the Baidu Cloud. It is the original version of Yitien from CN (倚天OL). We don't have information on when this version of files was released, and how different the Chinese version is compared to the global version.
 
-The goal of this project is to port the server artifact with a modern set of technologies for better access and playability. Additionally, it aims to translate the game into English.
+The goal of this project is to port the sole archive with a modern set of technologies for better access and playability. Additionally, it aims to translate the game into English.
 
-*All credits goes to the original creators and owners.*
+_All credits goes to the original creators and owners._
 
 Made with [Encore](https://github.com/glennhenry/Encore).
+
+# Progress
+
+Currently, we are still stuck in the loading screen. We have successfully connected the game to our socket server and received a message, but we still couldn't figure out the protocol.
+
+<img src="progress.png" alt="progress" width=300 />
 
 # Server Manual
 
