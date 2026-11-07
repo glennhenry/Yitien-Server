@@ -1,62 +1,16 @@
-# Encore
+# Yitien
 
-<img src="progress.png" alt="encore logo" width=200/>
+<img src="poster.jpg" alt="Yitien poster" width=200/>
 
-## About
+Server emulator for Yitien Chronicles. R2Games published Yitien globally in 2013 and closed it in 2016.
 
-**Encore** is a Kotlin-based game server template built for rapid game server prototyping. Powered by Ktor and MongoDB in a mostly DIY approach, it aims to be simple and explicit, allowing a frictionless adapation to game server implementation.
+This repository uses the only artifact of Yitien we could find on Baidu Cloud. It is the original version of Yitien from CN (倚天OL). We don't have information on when this version of files was released, and how different the Chinese version is compared to the global version.
 
-The framework is primarily created for private server development. It includes ready-to-use, generic server components and interfaces designed around common challenges encountered during private server implementation.
+The goal of this project is to port the server artifact with a modern set of technologies for better access and playability. Additionally, it aims to translate the game into English.
 
-An empty documentation site is also available to write reverse engineering findings.
-
-Encore [version info](https://github.com/glennhenry/Encore/blob/main/src/main/kotlin/encore/EncoreIdentity.kt): `1.3.1 (Comeback - first studio album)`
-
-```
-readme template
-
-<img src="progress.png" alt="gameplay image" width=200/>
-
-Server emulator for X, developed by X, closed on X.
-
-*This project tries to reconstruct the game server-side behavior. Client files and assets are not included. This project is not official and is not associated with the original creators.*
+*All credits goes to the original creators and owners.*
 
 Made with [Encore](https://github.com/glennhenry/Encore).
-```
-
-## Editlist
-
-Server files to edit:
-
-- `venue.xml`, `venue.secret.xml` app configuration
-  - `src/main/kotlin/game/config/CustomConfig.kt` define custom configs
-  - `src/main/kotlin/game/config/SecretConfig.kt` define secret configs
-- `src/main/kotlin/Application.kt` main app configuration including handlers, servers, messaging, etc.
-- `settings.gradle.kts` change project name
-- `build.gradle.kts` change artifact name
-- `src/main/kotlin/game/GameIdentity.kt` app name for flavour
-- `src/test/kotlin/InitMongo.kt` change DB name
-- `assets/` to contains game assets and create subrepo for tracking
-  - `index.html` update with game's SWF
-  - `favicon.ico` update with game's favicon
-
-Docs files to edit:
-
-- `docs/package.json` + `npm install`
-- `docs/astro.config.mjs`
-- `docs/src/components/Giscus.astro`
-- `docs/src/content/docs/intro.md`
-- `docs/src/content/docs/flow.md`
-- `docs/src/assets/` for image in `intro.md`
-- `docs/public/favicon.ico` for docs' favicon
-- This `README.md` + `game.png`
-
-Replace 4 images:
-
-- [CHANGE] `assets/site/favicon.ico` (game icon) for gameplay website
-- [CHANGE] `docs/public/favicon.ico` (game icon) for docs website
-- [CHANGE] `docs/src/assets/<GameName>.png` (gameplay image) for docs intro
-- [CHANGE] `progress.png` (latest progress image) for readme preview
 
 # Server Manual
 
@@ -83,7 +37,7 @@ You can also run the server from IntelliJ IDE run plugin on `Application.kt`.
 
 ## Build
 
-To build the server, simply run the `build.bat/sh` script. Output will be in `deploy/`. Run the deployment server using `java -jar encore.jar`.
+To build the server, simply run the `build.bat/sh` script. Output will be in `deploy/`. Run the deployment server using `java -jar yitien.jar`.
 
 For manual build:
 
@@ -102,7 +56,7 @@ Every variables can be overriden from OS environment variables. For example, in 
 ```ps1
 $env:ENCORE_DEVMODE = "false"
 $env:ENCORE_SERVER_PORT = "1234"
-java -jar encore.jar
+java -jar yitien.jar
 ```
 
 More information in [Venue.kt](https://github.com/glennhenry/Encore/blob/main/src/main/kotlin/encore/venue/Venue.kt)

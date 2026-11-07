@@ -1,4 +1,4 @@
-rootProject.name = "Encore"
+rootProject.name = "Yitien-Server"
 
 dependencyResolutionManagement {
     repositories {

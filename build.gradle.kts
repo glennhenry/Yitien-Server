@@ -7,8 +7,8 @@ plugins {
     alias(libs.plugins.kotlin.plugin.serialization)
 }
 
-group = "dev.encore"
-version = "1.3.1"
+group = "dev.yitien"
+version = "0.0.1"
 
 application {
     mainClass = "ApplicationKt"
@@ -16,12 +16,12 @@ application {
 
 ktor {
     fatJar {
-        archiveFileName.set("encore.jar")
+        archiveFileName.set("yitien.jar")
     }
 }
 
 tasks.withType<ShadowJar> {
-    archiveFileName.set("encore.jar")
+    archiveFileName.set("yitien.jar")
     destinationDirectory.set(file("deploy"))
     manifest {
         attributes["Main-Class"] = "ApplicationKt"

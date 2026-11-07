@@ -19,7 +19,7 @@ import encore.EncoreIdentity
  * - [Description]: descriptive texts.
  */
 object GameIdentity {
-    const val Title = "Unnamed"
+    const val Title = "Yitien Server"
     const val Version = "0.0.1"
-    const val Description = ""
+    const val Description = "Learning Chinese..."
 }
