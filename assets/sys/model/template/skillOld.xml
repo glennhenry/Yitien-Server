@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sysSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>31102</id>
+		<name>狂刀斩</name>
+		<v1>128</v1>
+		<effect1>攻击力</effect1>
+	</Row>
+	<Row>
+		<id>31102</id>
+		<name>狂刀斩</name>
+		<v1>128</v1>
+		<effect1>攻击力</effect1>
+	</Row>
+</sysSkill>

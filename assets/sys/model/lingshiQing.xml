@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<forgeLv>7</forgeLv>
+		<gift>1_44804_1_250_1,1_44813_1_250_1,1_44822_1_250_1,1_44876_1_250_1</gift>
+	</row>
+	<row>
+		<forgeLv>8</forgeLv>
+		<gift>1_44805_1_250_1,1_44814_1_250_1,1_44823_1_250_1,1_44877_1_250_1</gift>
+	</row>
+	<row>
+		<forgeLv>9</forgeLv>
+		<gift>1_44806_1_250_1,1_44815_1_250_1,1_44824_1_250_1,1_44878_1_250_1</gift>
+	</row>
+</NPC>

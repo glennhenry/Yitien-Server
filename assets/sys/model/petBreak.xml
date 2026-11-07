@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<severOpenHero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<ziZhi>300</ziZhi>
+		<needZiZhi>250</needZiZhi>
+		<needLevel>110</needLevel>
+		<needTool>1_44715_60</needTool>
+		<leastNum>13</leastNum>
+		<maxNum>19</maxNum>
+		<breakQua>251</breakQua>
+	</Row>
+	<Row>
+		<id>2</id>
+		<ziZhi>350</ziZhi>
+		<needZiZhi>300</needZiZhi>
+		<needLevel>120</needLevel>
+		<needTool>1_44715_80</needTool>
+		<leastNum>13</leastNum>
+		<maxNum>19</maxNum>
+		<breakQua>301</breakQua>
+	</Row>
+</severOpenHero>

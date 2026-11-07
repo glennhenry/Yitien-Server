@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 心法 -->
+<xinfa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<level>1</level>
+		<exp>970</exp> 
+		<effect1>970</effect1> 
+		<value1>100</value1>  
+	</Row>  
+	<Row>  
+		<level>1</level>
+		<exp>970</exp> 
+		<effect1>970</effect1> 
+		<value1>100</value1>  
+	</Row>  
+</xinfa>	

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 掌门人 -->
+<fortress xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<index>1</index>
+		<monsterid>970</monsterid> 
+		<xinfa>970</xinfa> 
+		<level>100</level> 
+		<addxinfa>970</addxinfa> 
+	</Row> 
+	<Row>
+		<index>2</index>
+		<monsterid>970</monsterid> 
+		<xinfa>970</xinfa> 
+		<level>100</level> 
+		<addxinfa>970</addxinfa> 
+	</Row>
+</fortress>	

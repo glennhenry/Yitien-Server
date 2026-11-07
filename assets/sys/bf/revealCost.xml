@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<tzID>4</tzID>
+		<revealCost>30000</revealCost>
+	</Row>
+	<Row>
+		<tzID>6</tzID>
+		<revealCost>30000</revealCost>
+	</Row>
+	<Row>
+		<tzID>8</tzID>
+		<revealCost>30000</revealCost>
+	</Row>
+</equipment>

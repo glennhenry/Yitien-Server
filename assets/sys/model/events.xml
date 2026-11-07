@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?><Events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    
+    <!-- 蓝黄钻推荐 -->
+	<Row>
+		<id>1</id>
+		<startDate>2013-06-04 00:00:00</startDate>
+		<endDate>2013-06-04 23:59:59</endDate>
+		<award>1_46254_1_1,1_46403_1_1,1_46253_1_1,1_43063_1_1</award>
+	</Row>
+	
+	<!-- 3366充值活动 -->
+	<Row>
+		<id>2</id> 
+		<startDate>2012-11-23 00:00:00</startDate>
+		<endDate>2014-11-28 23:59:59</endDate>
+		<award>1000:1_46314_2_1|5000:1_46254_2_1,1_43003_2_1|10000:1_43061_4_1,1_46222_5_1</award>
+	</Row>
+	
+	<!-- 神镖侠侣：运镖活动收益加倍 -->
+	<!-- <Row>
+		<id>3</id> 
+		<startDate>2014-05-22 00:00:00</startDate>
+		<endDate>2014-10-27 23:59:59</endDate>
+		<award>20</award>
+	</Row> -->
+
+	<!-- 春节活动：喜庆渔翁 -->
+	<!-- <Row>
+		<id>4</id>
+		<startDate>2014-05-31 00:00:00</startDate>
+		<endDate>2014-10-02 23:59:59</endDate>
+		<award>45618</award>
+	</Row> -->
+
+	
+	<!-- 圣诞活动：堆雪人    重新开活动先执行指令(注!!必须在活动时间内执行)http://127.0.0.1:8001/?key=fb79d7c055b514a8a23516021e51b259&cmd=111001&type=4&start=1111    -小洪-陈盼-->
+	<Row>
+		<id>5</id> 
+		<startDate>2013-12-30 00:00:00</startDate>
+		<endDate>2014-10-02 23:59:59</endDate>
+		<award>1</award>
+	</Row>
+	
+	<!-- 狮子绣球 双蛋活动-雪人祝福                  活动时间：12月23日10:00-12月26日23:59-->
+	<!-- <Row>
+		<id>6</id> 
+		<startDate>2014-04-04 00:00:00</startDate>
+		<endDate>2014-10-10 23:59:59</endDate>
+		<award>0</award>
+	</Row> -->
+	
+	<!-- 黄钻开通或续费抽奖活动 -->
+	<Row>
+		<id>7</id> 
+		<startDate>2013-03-27 00:00:00</startDate>
+		<endDate>2013-03-27 23:59:59</endDate>
+		<award>0</award>
+	</Row>
+	
+	<!-- 充值抽奖活动,充值转盘     PS:清充值抽奖历史记录SQL:update reiki set joinLZActivitiesStr='';  闪哥  -->
+	<!-- 转盘内的道具配置:LZRechargeActivitiesHandler.luckyDrawList 有四期 -->
+	<Row>
+		<id>8</id>
+		<startDate>2014-05-15 00:00:00</startDate>
+		<endDate>2014-10-18 23:59:59</endDate>
+		<award>0</award>
+	</Row>
+	
+	<!-- 蓝钻续费活动限量提示 -->
+	<Row>
+		<id>9</id>
+		<startDate>2013-06-14 00:00:00</startDate>
+		<endDate>2014-10-20 23:59:59</endDate>
+		<award>1</award>
+	</Row>
+	
+	<!-- 会员续费活动限量提示 -->
+	<Row>
+		<id>10</id>
+		<startDate>2013-07-08 00:00:00</startDate>
+		<endDate>2014-10-10 23:59:59</endDate>
+		<award>1</award>
+	</Row>
+	
+	<!-- 宠物成长活动 -->
+	<Row>
+		<id>11</id>
+		<startDate>2013-07-26 00:00:00</startDate>
+		<endDate>2014-10-01 23:59:59</endDate>
+		<award>1</award>
+	</Row>
+	
+	<!-- 紫镖 -->
+	<!--<Row>
+		<id>12</id> 
+		<startDate>2014-05-31 00:00:00</startDate>
+		<endDate>2014-10-02 23:59:59</endDate>
+		<award>1</award>
+	</Row>-->
+	
+	<!-- 许愿瓶 -->
+	<Row>
+		<id>13</id> 
+		<startDate>2014-01-30 00:00:00</startDate>
+		<endDate>2014-10-08 23:59:59</endDate>
+		<award>1</award>
+	</Row>
+	
+	<!-- 年兽贺岁   -廖婷 -->
+	<Row>
+		<id>14</id> 
+		<startDate>2014-05-08 00:00:00</startDate>
+		<endDate>2014-10-14 23:59:59</endDate>
+		<award>1</award>
+	</Row>
+	<!-- 充值抽奖活动2     PS:清充值抽奖2历史记录SQL:update reiki set joinLZActivitiesStr2=''; 谢旭东   -->
+	<Row>
+		<id>15</id>
+		<startDate>2014-05-19 00:00:00</startDate>
+		<endDate>2014-10-21 23:59:59</endDate>
+		<award>0</award>
+	</Row>
+	<!-- 充值抽奖活动3   PS:  杜中原  -->
+	<Row>
+		<id>16</id>
+		<startDate>2014-05-15 00:00:00</startDate>
+		<endDate>2014-10-18 23:59:59</endDate>
+		<award>0</award>
+	</Row>
+</Events>

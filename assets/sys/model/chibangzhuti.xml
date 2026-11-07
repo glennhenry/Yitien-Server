@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wingActiveAwards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<level>3</level>
+		<awards>1_45627_2,1_45627_2,1_45627_1</awards>
+	</Row>
+	<Row>
+		<id>2</id>
+		<level>4</level>
+		<awards>1_45627_6,1_45627_5,1_45627_5</awards>
+	</Row>
+	<Row>
+		<id>3</id>
+		<level>5</level>
+		<awards>1_45627_19,1_45627_19,1_45627_19</awards>
+	</Row>
+	<Row>
+		<id>4</id>
+		<level>6</level>
+		<awards>1_45627_48,1_45627_48,1_45627_48</awards>
+	</Row>
+	<Row>
+		<id>5</id>
+		<level>7</level>
+		<awards>1_45627_180,1_45627_180,1_45627_180</awards>
+	</Row>
+</wingActiveAwards>

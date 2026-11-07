@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<mapid>46355</mapid>
+		<zuobiao>1_46356_1,2_91502_1,2_92502_1,2_93502_1</zuobiao>
+	</Row>
+	<Row>
+		<mapid>46356</mapid>
+		<zuobiao>1_46357_1,1_43021_1,1_43031_1,2_94507_1,2_95507_1,2_96507_1</zuobiao>
+	</Row>
+</libao>

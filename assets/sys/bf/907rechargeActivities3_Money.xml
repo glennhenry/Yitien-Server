@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rechargeAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<money>88</money>
+	</Row>
+	<Row>
+		<money>408</money>
+	</Row>
+	<Row>
+		<money>808</money>
+	</Row>
+	<Row>
+		<money>1588</money>
+	</Row>
+	<Row>
+		<money>4088</money>
+	</Row>
+	<Row>
+		<money>8188</money>
+	</Row>
+	<Row>
+		<money>16888</money>
+	</Row>
+	<Row>
+		<money>42888</money>
+	</Row>
+	<Row>
+		<money>58888</money>
+	</Row>
+	<Row>
+		<money>86888</money>
+	</Row>
+	<Row>
+		<money>178888</money>
+	</Row>
+</rechargeAward>

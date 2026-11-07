@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<titleToMedal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<title>初入江湖</title>
+		<medal>菜鸟勋章</medal>
+		<medalId>99135</medalId>
+		<starStoneLevel>1</starStoneLevel>
+	</Row>
+	<Row>
+		<id>1</id>
+		<title>初入江湖</title>
+		<medal>菜鸟勋章</medal>
+		<medalId>99135</medalId>
+		<starStoneLevel>1</starStoneLevel>
+	</Row>
+</titleToMedal>	

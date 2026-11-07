@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<maxPlayerNum>1</maxPlayerNum>
+		<minPlayerNum>2000</minPlayerNum>
+		<fightTime>2000</fightTime>
+		<fightNum>2000</fightNum>
+	</row>
+	<row>
+		<maxPlayerNum>1</maxPlayerNum>
+		<minPlayerNum>2000</minPlayerNum>
+		<fightTime>2000</fightTime>
+		<fightNum>2000</fightNum>
+	</row>
+</data>

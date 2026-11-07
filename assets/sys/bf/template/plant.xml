@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>1</id>
+		<x>2000</x>
+		<y>2000</y>
+		<posState>1</posState>
+	</row>
+	<row>
+		<id>1</id>
+		<x>2000</x>
+		<y>2000</y>
+		<posState>1</posState>
+	</row>
+</data>

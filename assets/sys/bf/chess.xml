@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chess xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<name>人局</name>
+		<level>80</level>
+		<time>1200</time>
+	</Row>
+	<Row>
+		<id>2</id>
+		<name>地局</name>
+		<level>85</level>
+		<time>1200</time>
+	</Row>
+	<Row>
+		<id>3</id>
+		<name>天局</name>
+		<level>90</level>
+		<time>1200</time>
+	</Row>
+	<Row>
+		<id>4</id>
+		<name>命局</name>
+		<level>95</level>
+		<time>1200</time>
+	</Row>
+	<Row>
+		<id>5</id>
+		<name>神局</name>
+		<level>100</level>
+		<time>1200</time>
+	</Row>
+</chess>

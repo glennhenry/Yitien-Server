@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>46151</id>
+		<percent>250</percent>
+	</row>
+	<row>
+		<id>46152</id>
+		<percent>250</percent>
+	</row>
+	<row>
+		<id>46153</id>
+		<percent>250</percent>
+	</row>
+	<row>
+		<id>46154</id>
+		<percent>225</percent>
+	</row>
+	<row>
+		<id>46155</id>
+		<percent>20</percent>
+	</row>
+	<row>
+		<id>46156</id>
+		<percent>5</percent>
+	</row>
+</data>

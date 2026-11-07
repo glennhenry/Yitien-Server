@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lanzuanfuli xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<index>1</index>
+		<xuFeiTimes>1</xuFeiTimes>
+		<awards>1_46211_10,1_46255_2,1_44684_2,1_43061_1</awards>
+	</Row>
+	<Row>
+		<index>2</index>
+		<xuFeiTimes>3</xuFeiTimes>
+		<awards>1_46211_15,1_46255_3,1_44529_20,1_46315_5</awards>
+	</Row>
+	<Row>
+		<index>3</index>
+		<xuFeiTimes>6</xuFeiTimes>
+		<awards>1_46211_20,1_46255_3,1_46887_1,1_46413_2,1_44588_2</awards>
+	</Row>
+	<Row>
+		<index>4</index>
+		<xuFeiTimes>12</xuFeiTimes>
+		<awards>1_46211_30,1_46255_5,1_46389_10,1_45475_5,1_45469_10,1_46201_30</awards>
+	</Row>
+</lanzuanfuli>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QiZhenGuoShu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>1</id>
+		<award>1_46255_1</award>
+		<period>1</period>
+		<sortNum>1</sortNum>
+		<isNotice>1</isNotice>
+		<isHighlight>1</isHighlight>
+		<probability>30</probability>
+		<moneyShouldConsumed>2000</moneyShouldConsumed>
+	</row>
+	<row>
+		<id>2</id>
+		<award>1_46255_1</award>
+		<period>1</period>
+		<sortNum>1</sortNum>
+		<isNotice>1</isNotice>
+		<isHighlight>1</isHighlight>
+		<probability>30</probability>
+		<moneyShouldConsumed>2000</moneyShouldConsumed>
+	</row>
+</QiZhenGuoShu>

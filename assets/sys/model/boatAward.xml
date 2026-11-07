@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<severOpenHero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<tool>1_45525_10,1_44684_12</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<tool>1_45525_8,1_44684_10</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<tool>1_45525_7,1_44684_8</tool>
+	</Row>
+	<Row>
+		<id>4</id>
+		<tool>1_45525_6,1_44684_6</tool>
+	</Row>
+	<Row>
+		<id>5</id>
+		<tool>1_45525_5,1_44684_4</tool>
+	</Row>
+	<Row>
+		<id>6</id>
+		<tool>1_45525_3,1_44684_2</tool>
+	</Row>
+	<Row>
+		<id>7</id>
+		<tool>1_45525_2,1_44684_2</tool>
+	</Row>
+</severOpenHero>

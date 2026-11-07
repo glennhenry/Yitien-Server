@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--开服道具限购-->
+<items>
+	<item>
+		<id>1</id>
+		<value>1</value>
+		<fullValue>5</fullValue>
+		<type>1</type>
+		<toolId>46011</toolId>
+		<num>10</num>
+		<icon>Back_XGSG</icon>
+	</item>
+	<item>
+		<id>2</id>
+		<value>1</value>
+		<fullValue>5</fullValue>
+		<type>1</type>
+		<toolId>46071</toolId>
+		<num>3</num>
+		<icon>Back_XGSanG</icon>
+	</item>
+	<item>
+		<id>3</id>
+		<value>3</value>
+		<fullValue>15</fullValue>
+		<type>1</type>
+		<toolId>46062</toolId>
+		<num>10</num>
+		<icon>Back_XGSG</icon>
+	</item>
+	<item>
+		<id>4</id>
+		<value>50</value>
+		<fullValue>250</fullValue>
+		<type>1</type>
+		<toolId>46255</toolId>
+		<num>4</num>
+		<icon>Back_XGSiG</icon>
+	</item>
+</items>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<meridian xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>2</id>
+		<name>abc</name>
+		<type>1</type>
+		<level>1</level>
+		<color>1</color>
+		<learnLevel>1</learnLevel>
+		<preID>37</preID>
+		<nextID>105</nextID>
+		<price>26</price>
+		<pillID>3</pillID>
+		<pillNum>3</pillNum>
+		<effect>150_1</effect>
+	</Row>
+	<Row>
+		<id>2</id>
+		<name>abc</name>
+		<type>1</type>
+		<level>1</level>
+		<color>1</color>
+		<learnLevel>1</learnLevel>
+		<preID>37</preID>
+		<nextID>105</nextID>
+		<price>26</price>
+		<pillID>3</pillID>
+		<pillNum>3</pillNum>
+		<effect>150_1</effect>
+	</Row>
+</meridian>	

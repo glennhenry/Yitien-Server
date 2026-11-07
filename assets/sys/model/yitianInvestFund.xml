@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yitianInvestFund xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<investScope>1~4</investScope>
+		<awards>1_41016_1_0,1_44520_7_0,1_46389_20_0</awards>
+		<investLess>1</investLess>
+	</Row>
+	<Row>
+		<id>2</id>
+		<investScope>5~9</investScope>
+		<awards>1_41017_1_0,1_44520_35_0,1_46389_40_0,1_44477_100_0</awards>
+		<investLess>5</investLess>
+	</Row>
+	<Row>
+		<id>3</id>
+		<investScope>10~19</investScope>
+		<awards>1_41018_1_1,1_44520_56_0,1_46389_80_0,1_44477_200_0,1_46626_400_0</awards>
+		<investLess>10</investLess>
+	</Row>
+	<Row>
+		<id>4</id>
+		<investScope>20~49</investScope>
+		<awards>1_41019_1_1,1_44520_98_0,1_46389_150_0,1_44477_400_0,1_46626_800_0,1_45268_100_0</awards>
+		<investLess>20</investLess>
+	</Row>
+	<Row>
+		<id>5</id>
+		<investScope>50</investScope>
+		<awards>1_41019_2_1,1_44520_175_0,1_46389_300_0,1_44477_800_0,1_46626_1000_0,1_45268_200_0,1_44906_1_1</awards>
+		<investLess>50</investLess>
+	</Row>
+</yitianInvestFund>

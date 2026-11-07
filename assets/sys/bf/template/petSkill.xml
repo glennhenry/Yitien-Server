@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PetSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>46318</id>
+		<name>连击</name>
+		<lev>1</lev>
+		<toolId>46318</toolId>
+		<type>1</type>
+		<pro>5</pro>
+		<objNum>3</objNum>
+		<effect1>1</effect1>
+		<effectValue1>500</effectValue1>
+		<effect2>0</effect2>
+		<effectValue2>0</effectValue2>
+		<specialEffect>103</specialEffect>
+		<specialEffectValue>2</specialEffectValue>
+	</row>
+	<row>
+		<id>46319</id>
+		<name>魔杀</name>
+		<lev>1</lev>
+		<toolId>46319</toolId>
+		<type>1</type>
+		<pro>5</pro>
+		<objNum>3</objNum>
+		<effect1>1</effect1>
+		<effectValue1>500</effectValue1>
+		<effect2>0</effect2>
+		<effectValue2>0</effectValue2>
+		<specialEffect>106</specialEffect>
+		<specialEffectValue>5</specialEffectValue>
+	</row>
+</PetSkill>

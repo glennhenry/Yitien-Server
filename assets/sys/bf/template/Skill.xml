@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sysSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>31102</id>
+		<job>天刀门</job>
+		<name>狂刀斩</name>
+		<toT>敌方</toT>
+		<toN>单体</toN>
+		<skType>招式</skType>
+		<toArea>1*1</toArea>
+		<farNear>1</farNear>
+		<cdN>1回合</cdN>
+		<mp>50</mp>
+		<effect1>攻击力</effect1>
+		<v1>128</v1>
+		<effect2>攻击百分比</effect2>
+		<v2>130</v2>
+		<speEff>无</speEff>
+		<speEffV>无</speEffV>
+		<ar>100</ar>
+		<pic>31101</pic>
+		<swfEff>31101</swfEff>
+		<swfn>31101</swfn>
+		<des>无</des>
+		<info>无</info>
+		<prevSkid>无</prevSkid>
+		<needtool>49901</needtool>
+		<needlevel>5</needlevel>
+		<upSkillId>31103</upSkillId>
+		<currSkLev>2</currSkLev>
+		<skLevMax>20</skLevMax>
+		<effectId>无</effectId>
+		<strength>11</strength>
+		<petSkillProb>宠物技能触发概率</petSkillProb>
+		<xiaoGuoProb>0</xiaoGuoProb><!-- 转职新增：效果触发几率-->
+		<speEff2>0</speEff2><!-- 转职新增：特殊效果2-->
+		<speEffV2>0</speEffV2><!-- 转职新增：效果数值2-->
+		<showAction>20121</showAction>
+		<frameNumber>22</frameNumber>
+		<hitDelay>17</hitDelay>
+		<showSWF>28</showSWF>
+		<effectSWF>0</effectSWF>
+		<mistSWF>0</mistSWF>
+		<mistSWFNum>0</mistSWFNum>
+		<conjureRange>160</conjureRange>
+		<muisc>31101</muisc>
+		<hitedEffic>1</hitedEffic>
+		<bookSource>0</bookSource>
+		<condition>0</condition>
+		<effectIdBuff2>0</effectIdBuff2>
+		<arBuff2>0</arBuff2>
+	</Row>
+	<Row>
+		<id>31102</id>
+		<job>天刀门</job>
+		<name>狂刀斩</name>
+		<toT>敌方</toT>
+		<toN>单体</toN>
+		<skType>招式</skType>
+		<toArea>1*1</toArea>
+		<farNear>1</farNear>
+		<cdN>1回合</cdN>
+		<mp>50</mp>
+		<effect1>攻击力</effect1>
+		<v1>128</v1>
+		<effect2>攻击百分比</effect2>
+		<v2>130</v2>
+		<speEff>无</speEff>
+		<speEffV>无</speEffV>
+		<ar>100</ar>
+		<pic>31101</pic>
+		<swfEff>31101</swfEff>
+		<swfn>31101</swfn>
+		<des>无</des>
+		<info>无</info>
+		<prevSkid>无</prevSkid>
+		<needtool>49901</needtool>
+		<needlevel>5</needlevel>
+		<upSkillId>31103</upSkillId>
+		<currSkLev>2</currSkLev>
+		<skLevMax>20</skLevMax>
+		<effectId>无</effectId>
+		<strength>11</strength>
+		<petSkillProb>宠物技能触发概率</petSkillProb>
+		<!-- 释放动作 -->
+		<!-- 释放动作时间 -->
+		<!-- 作用swf时间 -->
+		<!-- 释放效果延时 -->
+		<xiaoGuoProb>0</xiaoGuoProb>
+		<speEff2>0</speEff2><!-- 转职新增：特殊效果2-->
+		<speEffV2>0</speEffV2><!-- 转职新增：效果数值2-->
+		<showAction>20121</showAction>
+		<frameNumber>22</frameNumber>
+		<hitDelay>17</hitDelay>
+		<showSWF>28</showSWF>
+		<effectSWF>0</effectSWF>
+		<mistSWF>0</mistSWF>
+		<mistSWFNum>0</mistSWFNum>
+		<conjureRange>160</conjureRange>
+		<muisc>31101</muisc>
+		<hitedEffic>1</hitedEffic>
+		<bookSource>0</bookSource>
+		<condition>0</condition>
+		<effectIdBuff2>0</effectIdBuff2>
+		<arBuff2>0</arBuff2>
+	</Row>
+</sysSkill>

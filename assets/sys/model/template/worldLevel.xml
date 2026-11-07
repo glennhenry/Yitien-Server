@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 世界等级 -->
+<worldLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<level>1</level>
+		<byStr>970</byStr> 
+		<whStr>970</whStr>  
+		<dragonID>300</dragonID>
+		<xrStr>300</xrStr>
+	</Row>  
+	<Row> 
+		<level>1</level>
+		<byStr>970</byStr> 
+		<whStr>970</whStr>
+		<dragonID>300</dragonID>  
+		<xrStr>300</xrStr>
+	</Row>   
+</worldLevel>	

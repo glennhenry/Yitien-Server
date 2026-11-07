@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<tzID>96001</tzID>
+		<tzNum>0</tzNum>
+		<addInfo>2_1_209,4_2_678,6_4_1909</addInfo>		
+		<tz1>0</tz1>
+		<tz2>0</tz2>
+		<tz3>0</tz3>
+		<tz4>0</tz4>
+		<tz5>0</tz5>
+		<tz6>0</tz6>
+		<name>abc</name>
+	</Row>
+	<Row>
+		<tzID>96001</tzID>
+		<tzNum>0</tzNum>
+		<addInfo>2_1_209,4_2_678,6_4_1909</addInfo>
+		<tz1>0</tz1>
+		<tz2>0</tz2>
+		<tz3>0</tz3>
+		<tz4>0</tz4>
+		<tz5>0</tz5>
+		<tz6>0</tz6>
+		<name>abc</name>
+	</Row>
+</equipment>

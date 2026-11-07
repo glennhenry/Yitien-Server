@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<arenaRank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<describe>1</describe>
+		<tool>1_44686_1</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<describe>2_5</describe>
+		<tool>1_44687_1</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<describe>6_30</describe>
+		<tool>1_44688_1</tool>
+	</Row>
+	<Row>
+		<id>4</id>
+		<describe>31_100</describe>
+		<tool>1_44689_1</tool>
+	</Row>
+</arenaRank>

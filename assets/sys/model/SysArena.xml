@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SysArena xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<rankStr>1</rankStr>
+		<prestige>500</prestige>
+		<wid>46400</wid>
+		<type>1</type>
+		<num>1</num>
+		<bind>1</bind>
+	</Row>
+	<Row>
+		<rankStr>2~10</rankStr>
+		<prestige>300</prestige>
+		<wid>46399</wid>
+		<type>1</type>
+		<num>1</num>
+		<bind>1</bind>
+	</Row>
+	<Row>
+		<rankStr>11~50</rankStr>
+		<prestige>200</prestige>
+		<wid>46398</wid>
+		<type>1</type>
+		<num>1</num>
+		<bind>1</bind>
+	</Row>
+	<Row>
+		<rankStr>51~1000</rankStr>
+		<prestige>150</prestige>
+		<wid>46397</wid>
+		<type>1</type>
+		<num>1</num>
+		<bind>1</bind>
+	</Row>
+</SysArena>

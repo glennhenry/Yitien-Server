@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 光明顶 -->
+<GmdScene xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<id>秘籍编号</id>  
+		<name>秘籍名称</name>    
+		<icon>秘籍图标ID</icon>    
+		<fanwei>作用范围</fanwei>    
+		<xiaoguo1>效果1</xiaoguo1>    
+		<value1>效果1数值</value1>    
+		<xiaoguo2>效果2</xiaoguo2>    
+		<value2>效果2数值</value2>    
+		<num>持续场次</num>    
+		<price>购买价格</price>    
+		<miaoshu>描述</miaoshu>    
+		<useNum>免费使用次数 </useNum>    
+		<buyNum>购买次数限制 </buyNum>  
+	</Row> 
+	<Row> 
+		<id>秘籍编号</id>  
+		<name>秘籍名称</name>    
+		<icon>秘籍图标ID</icon>    
+		<fanwei>作用范围</fanwei>    
+		<xiaoguo1>效果1</xiaoguo1>    
+		<value1>效果1数值</value1>    
+		<xiaoguo2>效果2</xiaoguo2>    
+		<value2>效果2数值</value2>    
+		<num>持续场次</num>    
+		<price>购买价格</price>    
+		<miaoshu>描述</miaoshu>    
+		<useNum>免费使用次数 </useNum>    
+		<buyNum>购买次数限制 </buyNum>  
+	</Row> 
+</GmdScene>	

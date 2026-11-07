@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<treeLevel>1</treeLevel>
+		<levelUpNeed>41001</levelUpNeed>
+		<harvestTimes>50_50</harvestTimes>
+		<bangGong>50_50</bangGong>
+		<fortune>50_50</fortune>
+	</Row>
+	<Row>
+		<treeLevel>1</treeLevel>
+		<levelUpNeed>41001</levelUpNeed>
+		<harvestTimes>50_50</harvestTimes>
+		<bangGong>50_50</bangGong>
+		<fortune>50_50</fortune>
+	</Row>
+</pet>

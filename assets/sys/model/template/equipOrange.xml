@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<level>1</level>
+		<needToolNum>2000</needToolNum>
+		<needSilver>1</needSilver>
+		<wuqiStr>1</wuqiStr>
+		<maoziStr>1</maoziStr>
+		<yifuStr>1</yifuStr>
+		<xianglianStr>1</xianglianStr>
+		<yaodaiStr>1</yaodaiStr>
+		<kuziStr>1</kuziStr>
+		<jiezhiStr>1</jiezhiStr>
+		<huwanStr>1</huwanStr>
+		<xieziStr>1</xieziStr>
+	</row>
+	<row>
+		<level>1</level>
+		<needToolNum>2000</needToolNum>
+		<needSilver>1</needSilver>
+		<wuqiStr>1</wuqiStr>
+		<maoziStr>1</maoziStr>
+		<yifuStr>1</yifuStr>
+		<xianglianStr>1</xianglianStr>
+		<yaodaiStr>1</yaodaiStr>
+		<kuziStr>1</kuziStr>
+		<jiezhiStr>1</jiezhiStr>
+		<huwanStr>1</huwanStr>
+		<xieziStr>1</xieziStr>
+	</row>
+</data>

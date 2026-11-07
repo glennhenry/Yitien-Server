@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 活动事件 -->
+<Events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<id>事件id</id>
+		<startDate>开启日期2012-9-18 0:0:0</startDate> 
+		<endDate>结束日期2012-9-28 23:59:59</endDate> 
+		<award>100</award>   
+	</Row>   
+	<Row> 
+		<id>事件id</id>
+		<startDate>开启日期2012-9-18 0:0:0</startDate> 
+		<endDate>结束日期2012-9-28 23:59:59</endDate> 
+		<award>100</award>   
+	</Row>   
+</Events>	

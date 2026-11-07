@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<percent>100</percent>
+		<down>0</down>
+		<lucky>0</lucky>
+		
+	</Row>
+	<Row>
+		<level>2</level>
+		<percent>80</percent>
+		<down>0</down>
+		<lucky>0</lucky>
+	</Row>
+</equipment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<blessJie>1</blessJie>
+		<blessStar>2000</blessStar>
+		<needExp>2000</needExp>
+		<addMeta>2000</addMeta>
+	</row>
+	<row>
+		<blessJie>1</blessJie>
+		<blessStar>2000</blessStar>
+		<needExp>2000</needExp>
+		<addMeta>2000</addMeta>
+	</row>
+</data>

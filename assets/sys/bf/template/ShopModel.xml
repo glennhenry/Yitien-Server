@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<goodId>1</goodId>
+		<shopId>41001</shopId>
+		<name>50_50</name>
+		<npcModel>50_50</npcModel>
+		<label>50_50</label>
+		<wpid>1</wpid>
+		<type>1</type>
+		<sellNum>99999</sellNum>
+		<bind>0</bind>
+		<price>2000</price>	
+		<moneyType>0</moneyType>
+		<onTime>22:00:00</onTime>
+		<offTime>86400</offTime>
+		<startTime>2011-11-11</startTime>
+		<endTime>2011-11-11</endTime>
+	</Row>
+	<Row>
+		<goodId>1</goodId>
+		<shopId>41001</shopId>
+		<name>50_50</name>
+		<npcModel>50_50</npcModel>
+		<label>50_50</label>
+		<wpid>1</wpid>
+		<type>1</type>
+		<sellNum>99999</sellNum>
+		<bind>0</bind>
+		<price>2000</price>	
+		<moneyType>0</moneyType>
+		<onTime>22:00:00</onTime>
+		<offTime>86400</offTime>
+		<startTime>2011-11-11</startTime>
+		<endTime>2011-11-11</endTime>
+	</Row>
+</pet>

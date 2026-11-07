@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>30</level>
+		<addExp>1</addExp>
+		<expPerStar>1</expPerStar>
+	</Row>
+	<Row>
+		<level>31</level>
+		<addExp>2</addExp>
+		<expPerStar>1</expPerStar>
+	</Row>
+</hang>

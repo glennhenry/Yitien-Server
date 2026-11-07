@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 金券活动表 -->
+<jingQuan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<level>1</level>
+		<needJinQuan>970</needJinQuan> 
+		<needYuanBao>970</needYuanBao> 
+		<toolID>100</toolID>  
+	</Row>   
+	<Row> 
+		<level>1</level>
+		<needJinQuan>970</needJinQuan> 
+		<needYuanBao>970</needYuanBao> 
+		<toolID>100</toolID>  
+	</Row>   
+</jingQuan>	

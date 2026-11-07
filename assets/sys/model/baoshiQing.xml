@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<forgeLv>5</forgeLv>
+		<gift>1_41004_1_250_1,1_41014_1_250_1,1_41024_1_250_1,1_41084_1_250_1</gift>
+	</row>
+	<row>
+		<forgeLv>6</forgeLv>
+		<gift>1_41005_1_250_1,1_41015_1_250_1,1_41025_1_250_1,1_41085_1_250_1</gift>
+	</row>
+	<row>
+		<forgeLv>7</forgeLv>
+		<gift>1_41006_1_250_1,1_41016_1_250_1,1_41026_1_250_1,1_41086_1_250_1</gift>
+	</row>
+	<row>
+		<forgeLv>8</forgeLv>
+		<gift>1_41007_1_250_1,1_41017_1_250_1,1_41027_1_250_1,1_41087_1_250_1</gift>
+	</row>
+	<row>
+		<forgeLv>9</forgeLv>
+		<gift>1_41008_1_250_1,1_41018_1_250_1,1_41028_1_250_1,1_41088_1_250_1</gift>
+	</row>
+</NPC>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jingQuan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>30-49</level>
+		<needJinQuan>10</needJinQuan>
+		<needYuanBao>40</needYuanBao>
+		<liBaoID>44511</liBaoID>
+		<toolID>1_46253_1,1_46061_1,1_46353_1</toolID>
+	</Row>
+	<Row>
+		<level>50-69</level>
+		<needJinQuan>10</needJinQuan>
+		<needYuanBao>40</needYuanBao>
+		<liBaoID>44511</liBaoID>
+		<toolID>1_46253_1,1_46061_1,1_46353_1</toolID>
+	</Row>
+	<Row>
+		<level>70-89</level>
+		<needJinQuan>10</needJinQuan>
+		<needYuanBao>40</needYuanBao>
+		<liBaoID>44511</liBaoID>
+		<toolID>1_46253_1,1_46061_1,1_46353_1</toolID>
+	</Row>
+	<Row>
+		<level>90-120</level>
+		<needJinQuan>10</needJinQuan>
+		<needYuanBao>40</needYuanBao>
+		<liBaoID>44511</liBaoID>
+		<toolID>1_46253_1,1_46061_1,1_46353_1</toolID>
+	</Row>
+</jingQuan>

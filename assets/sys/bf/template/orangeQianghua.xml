@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orangeQianghua xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<num>10</num>
+	</Row>
+	<Row>
+		<level>1</level>
+		<num>11</num>
+	</Row>
+</orangeQianghua>

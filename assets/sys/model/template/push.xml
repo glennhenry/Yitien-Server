@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<push xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<event>体力值已满</event>
+		<message>您当前体力值已满，可以去打打副本，杀杀怪了。</message>
+	</Row>
+	
+	<Row>
+		<id>1</id>
+		<event>体力值已满</event>
+		<message>您当前体力值已满，可以去打打副本，杀杀怪了。</message>
+	</Row>
+	
+</push>	

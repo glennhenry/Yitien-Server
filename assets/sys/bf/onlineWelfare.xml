@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<onlineWelfare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<award>1_43012_1,1_46011_3,1_46410_1</award>
+	</Row>
+	<Row>
+		<level>2</level>
+		<award>1_46253_1,1_46062_1,1_46201_1,1_46232_1</award>
+	</Row>
+	<Row>
+		<level>3</level>
+		<award>1_43002_1,1_41001_1,1_46012_1,1_46300_1</award>
+	</Row>
+	<Row>
+		<level>4</level>
+		<award>1_46253_1,1_46062_2,1_46402_1,1_46353_1</award>
+	</Row>
+	<Row>
+		<level>5</level>
+		<award>1_46155_1,1_46052_1,1_46012_1,1_46221_1</award>
+	</Row>
+</onlineWelfare>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cardGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<money>10</money>
+	</Row>
+	<Row>
+		<id>2</id>
+		<money>20</money>
+	</Row>
+	<Row>
+		<id>3</id>
+		<money>50</money>
+	</Row>
+	<Row>
+		<id>4</id>
+		<money>100</money>
+	</Row>
+	<Row>
+		<id>5</id>
+		<money>200</money>
+	</Row>
+</cardGame>

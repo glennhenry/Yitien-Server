@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 光明顶 -->
+<GmdScene xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<id></id> 
+		<ceng></ceng> 
+		<name></name>
+		<mapUrl></mapUrl> 
+		<npcx></npcx> 
+		<npcy></npcy> 
+		
+		<npcid></npcid> 
+		<bossPic></bossPic> 
+		<bossID></bossID> 
+		<mjStr></mjStr> 
+		<tiaoCeng></tiaoCeng> 
+		
+		<tiaoNum></tiaoNum> 
+		<award></award> 
+		<x></x> 
+		<y></y> 
+		<yinyue></yinyue>  
+	</Row>
+	<Row> 
+		<id></id> 
+		<ceng></ceng> 
+		<name></name>
+		<mapUrl></mapUrl> 
+		<npcx></npcx> 
+		<npcy></npcy> 
+		
+		<npcid></npcid> 
+		<bossPic></bossPic> 
+		<bossID></bossID> 
+		<mjStr></mjStr> 
+		<tiaoCeng></tiaoCeng> 
+		
+		<tiaoNum></tiaoNum> 
+		<award></award> 
+		<x></x> 
+		<y></y> 
+		<yinyue></yinyue>  
+	</Row>
+</GmdScene>	

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 跑镖 -->
+<paobiao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<level>1</level>
+		<bindSilver>970</bindSilver> 
+		<yunBiao1>970</yunBiao1> 
+		<yunBiao2>100</yunBiao2>  
+		<yunBiao3>100</yunBiao3>  
+	</Row>  
+	<Row> 
+		<level>1</level>
+		<bindSilver>970</bindSilver> 
+		<yunBiao1>970</yunBiao1> 
+		<yunBiao2>100</yunBiao2>  
+		<yunBiao3>100</yunBiao3>  
+	</Row>  
+</paobiao>	

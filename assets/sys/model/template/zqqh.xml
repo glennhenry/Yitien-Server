@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RideNewBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<property>1</property>
+		<probability>100</probability>
+		<silver>50</silver>
+		<materialID>1</materialID>
+		<materialNum>1</materialNum>
+	</Row>
+	<Row>
+		<level>1</level>
+		<property>1</property>
+		<probability>100</probability>
+		<silver>50</silver>
+		<materialID>1</materialID>
+		<materialNum>1</materialNum>
+	</Row>
+</RideNewBook>

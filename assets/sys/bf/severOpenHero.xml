@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<severOpenHero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<needScore>28000</needScore>
+		<tool>1_44647_10</tool>
+		<limiteNum>2</limiteNum>
+	</Row>
+	<Row>
+		<id>2</id>
+		<needScore>25000</needScore>
+		<tool>1_46412_10</tool>
+		<limiteNum>4</limiteNum>
+	</Row>
+	<Row>
+		<id>3</id>
+		<needScore>23000</needScore>
+		<tool>1_46887_4</tool>
+		<limiteNum>6</limiteNum>
+	</Row>
+	<Row>
+		<id>4</id>
+		<needScore>20000</needScore>
+		<tool>1_46255_5</tool>
+		<limiteNum>10</limiteNum>
+	</Row>
+	<Row>
+		<id>5</id>
+		<needScore>14000</needScore>
+		<tool>1_46254_5</tool>
+		<limiteNum>1000</limiteNum>
+	</Row>
+</severOpenHero>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FundRebate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<needMoney>100000</needMoney>
+		<effect>5</effect>
+		<reward>44526</reward>
+	</Row>
+	<Row>
+		<level>2</level>
+		<needMoney>200000</needMoney>
+		<effect>10</effect>
+		<reward>44527</reward>
+	</Row>
+	<Row>
+		<level>3</level>
+		<needMoney>1000000</needMoney>
+		<effect>15</effect>
+		<reward>44528</reward>
+	</Row>
+</FundRebate>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<severOpenHero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<needScore>5</needScore>
+		<tool>1_46211_10</tool>
+		<limiteNum>1000</limiteNum>
+	</Row>
+</severOpenHero>

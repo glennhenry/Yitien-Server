@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<closeLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<desc>yes</desc>
+		<min>96001</min>
+		<max>0</max>
+		<buffID>0</buffID>
+	</Row>
+	<Row>
+		<desc>yes</desc>
+		<min>96001</min>
+		<max>0</max>
+		<buffID>0</buffID>
+	</Row>	
+</closeLevel>	

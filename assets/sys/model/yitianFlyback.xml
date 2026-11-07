@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yitianFlyback xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<days>1</days>
+		<award>1_46389_15,1_46201_10</award>
+	</Row>
+	<Row>
+		<days>2</days>
+		<award>1_46389_50,1_46255_2,1_43061_1</award>
+	</Row>
+	<Row>
+		<days>3</days>
+		<award>1_46389_20,1_46201_12,1_46313_5</award>
+	</Row>
+	<Row>
+		<days>4</days>
+		<award>1_46389_25,1_46201_15,1_46313_8,1_46221_10</award>
+	</Row>
+	<Row>
+		<days>5</days>
+		<award>1_46389_30,1_46201_18,1_46313_10,1_46221_15</award>
+	</Row>
+	<Row>
+		<days>6</days>
+		<award>1_46389_35,1_46201_20,1_46313_12,1_46221_20,1_44587_10</award>
+	</Row>
+	<Row>
+		<days>7</days>
+		<award>1_46389_110,1_46255_2,1_43061_1,1_46221_25,1_44587_15,1_46565_10</award>
+	</Row>
+</yitianFlyback>

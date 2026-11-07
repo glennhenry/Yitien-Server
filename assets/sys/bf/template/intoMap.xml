@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 进入副本 -->
+<intoMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<mapid>1</mapid>  
+		<level>100</level>  
+	</Row> 
+	<Row>
+		<mapid>2</mapid>  
+		<level>100</level>  
+	</Row> 
+</intoMap>	

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<consumeRebateTimeExcel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<time>1</time>
+		<date>3</date>
+	</Row>
+	<Row>
+		<time>2</time>
+		<date>7</date>
+	</Row>
+	<Row>
+		<time>3</time>
+		<date>15</date>
+	</Row>
+</consumeRebateTimeExcel>

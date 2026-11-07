@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LuckyCatsAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>20</condition>
+		<tool>1_46254_1,1_45610_1,1_45611_1,1_45612_1,1_45613_1,1_45614_1,1_45615_1,1_45616_1,1_45617_1</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<condition>40</condition>
+		<tool>1_46073_1,1_46315_1</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<condition>60</condition>
+		<tool>1_46413_2,1_45610_2,1_45611_2,1_45612_2,1_45613_2,1_45614_2,1_45615_2,1_45616_2,1_45617_2</tool>
+	</Row>
+</LuckyCatsAward>

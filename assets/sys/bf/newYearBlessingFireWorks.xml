@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newYearBlessingFireWorks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<blessingWord>XXX祝福所有玩家2014年里马到成功，家庭美满，极品装备，马上刷爆！</blessingWord>
+		<odds>25</odds>
+	</Row>
+	<Row>
+		<id>2</id>
+		<blessingWord>XXX祝福所有玩家事业正当午，身体壮如虎，金钱不胜数，干活不辛苦！</blessingWord>
+		<odds>25</odds>
+	</Row>
+	<Row>
+		<id>3</id>
+		<blessingWord>XXX祝福所有玩家万事如意。赚钱多多，美女多多，HAPPY NEW YEAR！</blessingWord>
+		<odds>25</odds>
+	</Row>
+	<Row>
+		<id>4</id>
+		<blessingWord>XXX祝福所有玩家明天不上班，照样有钱花，开心每一天，幸福每一年！</blessingWord>
+		<odds>25</odds>
+	</Row>
+</newYearBlessingFireWorks>

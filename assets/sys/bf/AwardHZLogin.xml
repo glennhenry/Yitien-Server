@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AwardHZLogin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<award>1_46201_1,1_46061_1</award>
+	</Row>
+	<Row>
+		<id>2</id>
+		<award>1_46201_2,1_46061_2</award>
+	</Row>
+	<Row>
+		<id>3</id>
+		<award>1_46201_3,1_46061_3</award>
+	</Row>
+</AwardHZLogin>

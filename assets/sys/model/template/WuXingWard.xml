@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<WuXingWard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>5</condition>
+		<tool>1_46013_1</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<condition>10</condition>
+		<tool>1_46013_2</tool>
+	</Row>
+</WuXingWard>

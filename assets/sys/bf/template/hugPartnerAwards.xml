@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hugPartnerAwards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<type>6_10</type>
+		<awards>1_46439_99,1_46255_1</awards>
+		<level>1</level>
+	</Row> 
+	<Row>
+		<id>1</id>
+		<type>6_10</type>
+		<awards>1_46439_99,1_46255_1</awards>
+		<level>1</level>
+	</Row> 
+</hugPartnerAwards>	

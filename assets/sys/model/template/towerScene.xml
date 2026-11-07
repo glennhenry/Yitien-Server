@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tower xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<tower>
+		<id>96001</id>
+		<ceng>yes</ceng>
+		<url>0</url>
+		<npcid>0</npcid>
+		<npcx>1</npcx>
+		<npcy>2</npcy>
+		<pType>2</pType>
+		<tMapId>2</tMapId>
+		<x>2</x>
+		<y>2</y>
+	</tower>
+	<tower>
+		<id>96001</id>
+		<ceng>yes</ceng>
+		<url>0</url>
+		<npcid>0</npcid>
+		<npcx>1</npcx>
+		<npcy>2</npcy>
+		<pType>2</pType>
+		<tMapId>2</tMapId>
+		<x>2</x>
+		<y>2</y>
+	</tower>	
+</tower>	

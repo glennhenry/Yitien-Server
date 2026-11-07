@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<goBackPlayerNum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<awardName>邀请奖励</awardName>
+		<award>1_45554_1,1_45555_1,1_46255_1,1_43061_1,1_46201_10</award>
+		<playerNum>3</playerNum>
+	</Row>
+	<Row>
+		<id>2</id>
+		<awardName>奖励一</awardName>
+		<award>1_46389_10_1,1_46254_1,1_45561_15</award>
+		<playerNum>20</playerNum>
+	</Row>
+	<Row>
+		<id>3</id>
+		<awardName>奖励二</awardName>
+		<award>1_46389_15_1,1_46254_2,1_46201_10</award>
+		<playerNum>50</playerNum>
+	</Row>
+	<Row>
+		<id>4</id>
+		<awardName>奖励三</awardName>
+		<award>1_46389_20_1,1_46254_3,1_46201_20</award>
+		<playerNum>100</playerNum>
+	</Row>
+	<Row>
+		<id>5</id>
+		<awardName>奖励四</awardName>
+		<award>1_46389_50_1,1_46255_5,1_44520_5,1_46413_5</award>
+		<playerNum>200</playerNum>
+	</Row>
+</goBackPlayerNum>

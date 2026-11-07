@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LZRecharge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+	    <id>1</id>
+		<award>1_46887_1</award>
+		<probability>1_30</probability>
+		<sortNum>1</sortNum>
+		<isNotice>0</isNotice>
+	</row>
+	<row>
+	    <id>1</id>
+		<award>1_46887_1</award>
+		<probability>330</probability>
+		<sortNum>1</sortNum>
+		<isNotice>0</isNotice>
+	</row>
+</LZRecharge>

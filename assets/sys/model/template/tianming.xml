@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tool xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>47101</id>
+		<type>1</type>
+		<levelType>1</levelType>
+		<name>仙（初级）</name>
+		<effectType>9</effectType>
+		<effectValue>10</effectValue>
+	</Row>
+	<Row>
+		<id>47102</id>
+		<type>2</type>
+		<levelType>1</levelType>
+		<name>仙（初级）</name>
+		<effectType>9</effectType>
+		<effectValue>10</effectValue>
+	</Row>
+</tool>

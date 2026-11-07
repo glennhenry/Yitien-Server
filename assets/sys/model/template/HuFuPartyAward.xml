@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HuFuPartyAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>1</condition>
+		<tool>1_46308_1,1_46307_2</tool>
+	</Row>
+	<Row>
+		<id>1</id>
+		<condition>1</condition>
+		<tool>1_46308_1,1_46307_2</tool>
+	</Row>
+	<Row>
+		<id>1</id>
+		<condition>1</condition>
+		<tool>1_46308_1,1_46307_2</tool>
+	</Row>
+</HuFuPartyAward>

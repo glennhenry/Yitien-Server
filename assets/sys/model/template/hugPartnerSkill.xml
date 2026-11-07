@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hugPartnerSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<name>加速</name>
+		<useType>1</useType>
+		<effective>移动速度提高30%</effective>
+		<duration>1</duration>
+		<coolDown>1</coolDown>
+		<effectiveRange>1</effectiveRange>
+	</Row> 
+	<Row>
+		<id>1</id>
+		<name>加速</name>
+		<useType>1</useType>
+		<effective>移动速度提高30%</effective>
+		<duration>1</duration>
+		<coolDown>1</coolDown>
+		<effectiveRange>1</effectiveRange>
+	</Row> 
+</hugPartnerSkill>	

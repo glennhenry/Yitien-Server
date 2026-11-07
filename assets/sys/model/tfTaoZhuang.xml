@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tfTaoZhuang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<level>10</level>
+		<property>1_200,2_300,4_1000</property>
+	</Row>
+	<Row>
+		<id>2</id>
+		<level>20</level>
+		<property>1_400,2_600,4_2000</property>
+	</Row>
+	<Row>
+		<id>3</id>
+		<level>30</level>
+		<property>1_800,2_1200,4_4000</property>
+	</Row>
+	<Row>
+		<id>4</id>
+		<level>40</level>
+		<property>1_1600,2_2400,4_8000</property>
+	</Row>
+</tfTaoZhuang>

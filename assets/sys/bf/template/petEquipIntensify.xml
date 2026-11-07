@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<petEquipIntensify xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<wuQiValue>84_20,81_20</wuQiValue>
+		<kaiJiaValue>84_20,81_20</kaiJiaValue>
+		<huWanValue>84_20,81_20</huWanValue>
+		<xieZiValue>84_20,81_20</xieZiValue>
+		<usetool>1_46011_1,1_46011_1</usetool>
+		<silver>1</silver>
+	</Row> 
+	<Row>
+		<level>1</level>
+		<wuQiValue>84_20,81_20</wuQiValue>
+		<kaiJiaValue>84_20,81_20</kaiJiaValue>
+		<huWanValue>84_20,81_20</huWanValue>
+		<xieZiValue>84_20,81_20</xieZiValue>
+		<usetool>1_46011_1,1_46011_1</usetool>
+		<silver>1</silver>
+	</Row> 
+</petEquipIntensify>	

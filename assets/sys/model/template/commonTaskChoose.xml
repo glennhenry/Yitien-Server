@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<commonTaskChoose xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<beginLevel>1</beginLevel>
+		<endLevel>200</endLevel>
+		<tasks>200_200</tasks>
+	</Row>
+	<Row>
+		<beginLevel>1</beginLevel>
+		<endLevel>200</endLevel>
+		<tasks>200_200</tasks>
+	</Row>
+</commonTaskChoose>	

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<wid>道具id</wid>
+		<model>模型</model>
+		<name>名称</name>
+		<picId>图标ID</picId>
+		<sPic>单图</sPic>
+		<pic>头像</pic> 
+	</Row>   
+	<Row>
+		<wid>道具id</wid>
+		<model>模型</model>
+		<name>名称</name>
+		<picId>图标ID</picId>
+		<sPic>单图</sPic>
+		<pic>头像</pic> 
+	</Row>
+</pet>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tavernInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<updateCost>200</updateCost>
+		<benefit>200</benefit>
+ 		<contribute>1</contribute>
+	</Row>
+	<Row>
+		<level>1</level>
+		<updateCost>200</updateCost>
+		<benefit>200</benefit>
+ 		<contribute>1</contribute>
+	</Row>
+</tavernInfo>	

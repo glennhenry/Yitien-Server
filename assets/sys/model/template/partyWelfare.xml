@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<partyWelfare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<renshubi>30</renshubi>
+		<award>1_46566_1,1_46201_1,1_43031_1</award>
+	</Row>
+	<Row>
+		<level>1</level>
+		<renshubi>30</renshubi>
+		<award>1_46566_1,1_46201_1,1_43031_1</award>
+	</Row>
+</partyWelfare>	

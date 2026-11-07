@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipIntensifyActiveAwards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<xingji>10</xingji>
+		<awards>1_46073_2,1_46013_3</awards>
+	</Row>
+	<Row>
+		<level>2</level>
+		<xingji>21</xingji>
+		<awards>1_46073_3,1_44643_3</awards>
+	</Row>
+</equipIntensifyActiveAwards>

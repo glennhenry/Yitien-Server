@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FesAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<goodId>10</goodId>
+		<wpName>英雄令(紫)</wpName>
+		<wpid>46252</wpid>
+		<per>10</per>
+		<num>12</num>
+		<bindStatus>1</bindStatus>
+	</Row>
+	<Row>
+		<id>1</id>
+		<goodId>10</goodId>
+		<wpName>英雄令(紫)</wpName>
+		<wpid>46252</wpid>
+		<per>10</per>
+		<num>12</num>
+		<bindStatus>1</bindStatus>
+	</Row>
+</FesAward>	

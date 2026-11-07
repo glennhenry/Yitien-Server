@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<arena xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<quality>1</quality>
+		<add>37</add>
+	</Row>
+	<Row>
+		<quality>2</quality>
+		<add>41</add>
+	</Row>
+	<Row>
+		<quality>3</quality>
+		<add>47</add>
+	</Row>
+	<Row>
+		<quality>4</quality>
+		<add>54</add>
+	</Row>
+	<Row>
+		<quality>5</quality>
+		<add>63</add>
+	</Row>
+</arena>

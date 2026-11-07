@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--宝石镶嵌回馈-->
+<items>
+	<item>
+		<id>1</id>
+		<gemLevelNum>10</gemLevelNum>
+		<awards>1_45417_5,1_46887_2</awards>
+		<discript><![CDATA[镶嵌4级以上宝石<font color='#ffff33'>10个</font><br>已经镶嵌<font color='#33ff33'>{0}个</font>]]></discript>
+	</item>
+	<item>
+		<id>2</id>
+		<gemLevelNum>20</gemLevelNum>
+		<awards>1_45417_8,1_46887_2</awards>
+		<discript><![CDATA[镶嵌4级以上宝石<font color='#ffff33'>20个</font><br>已经镶嵌<font color='#33ff33'>{0}个</font>]]></discript>
+	</item>
+	<item>
+		<id>3</id>
+		<gemLevelNum>40</gemLevelNum>
+		<awards>1_45430_3,1_46887_4</awards>
+		<discript><![CDATA[镶嵌4级以上宝石<font color='#ffff33'>40个</font><br>已经镶嵌<font color='#33ff33'>{0}个</font>]]></discript>
+	</item>
+	<item>
+		<id>4</id>
+		<gemLevelNum>20</gemLevelNum>
+		<awards>1_45430_5,1_46887_10</awards>
+		<discript><![CDATA[镶嵌5级以上宝石<font color='#ffff33'>20个</font><br>已经镶嵌<font color='#33ff33'>{0}个</font>]]></discript>
+	</item>
+</items>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>40000</id>
+		<contains>1_43002_2,1_43012_2,1_43062_2,1_46232_2,1_46353_2</contains>
+		<toolID>40000</toolID>
+	</Row>
+	<Row>
+		<id>40001</id>
+		<contains>1_43002_2,1_43012_2,1_43062_2,1_46232_2,1_46353_2,1_45268_2</contains>
+		<toolID>40001</toolID>
+	</Row>
+</libao>

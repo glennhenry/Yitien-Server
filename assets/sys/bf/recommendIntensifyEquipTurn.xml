@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recommendIntensifyEquipTurn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<type>1</type>
+	</Row>
+	<Row>
+		<type>9</type>
+	</Row>
+	<Row>
+		<type>8</type>
+	</Row>
+	<Row>
+		<type>2</type>
+	</Row>
+	<Row>
+		<type>5</type>
+	</Row>
+	<Row>
+		<type>6</type>
+	</Row>
+	<Row>
+		<type>3</type>
+	</Row>
+	<Row>
+		<type>4</type>
+	</Row>
+	<Row>
+		<type>7</type>
+	</Row>
+</recommendIntensifyEquipTurn>

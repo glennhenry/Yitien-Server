@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rechargeConsume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<type>2</type>
+		<num>88</num>
+		<award>1_46073_1,1_46253_1,1_46201_1</award>
+		<times>5</times>
+	</Row>
+	<Row>
+		<id>2</id>
+		<type>1</type>
+		<num>188</num>
+		<award>1_45565_1,1_46063_1,1_44684_2</award>
+		<times>30</times>
+	</Row>
+	<Row>
+		<id>3</id>
+		<type>1</type>
+		<num>2888</num>
+		<award>1_45565_2,1_44485_1,1_44588_1</award>
+		<times>30</times>
+	</Row>
+</rechargeConsume>

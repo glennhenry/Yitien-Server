@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RideNewLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<rideID>99501</rideID>
+		<rideType>1</rideType>
+		<propertyBook>1_20</propertyBook>
+		<upgradeID>99502</upgradeID>
+		<property>4_200,92_10</property>
+		<materialID>49001</materialID>
+		<materialNum>10</materialNum>
+		<silver>50000</silver>
+		<modelID>24501</modelID>
+		<openNeedID>0</openNeedID>
+		<rideName>苍狼</rideName>
+		<yData>苍狼</yData>
+		<jumpNum>苍狼</jumpNum>
+		<proPVP>苍狼</proPVP>
+	</Row>
+	<Row>
+		<rideID>99501</rideID>
+		<rideType>1</rideType>
+		<propertyBook>1_20</propertyBook>
+		<upgradeID>99502</upgradeID>
+		<property>4_200,92_10</property>
+		<materialID>49001</materialID>
+		<materialNum>10</materialNum>
+		<silver>50000</silver>
+		<modelID>24501</modelID>
+		<openNeedID>0</openNeedID>
+		<rideName>苍狼</rideName>
+		<yData>苍狼</yData>
+		<jumpNum>苍狼</jumpNum>
+		<proPVP>苍狼</proPVP>
+	</Row>
+</RideNewLevel>

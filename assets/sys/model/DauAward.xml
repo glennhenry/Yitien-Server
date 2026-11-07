@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DauAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>1</condition>
+		<tool>1_44730_1</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<condition>3</condition>
+		<tool>1_44731_1</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<condition>5</condition>
+		<tool>1_44732_1</tool>
+	</Row>
+</DauAward>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recommendIntensifyLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<bianqiangxiang>强化</bianqiangxiang>
+		<tuijiandengji>33-90</tuijiandengji>
+		<tihuanxiang>洗练</tihuanxiang>
+		<tihuandengji>91</tihuandengji>
+	</Row>
+	<Row>
+		<id>2</id>
+		<bianqiangxiang>宠物</bianqiangxiang>
+		<tuijiandengji>33-69</tuijiandengji>
+		<tihuanxiang>神兵</tihuanxiang>
+		<tihuandengji>70</tihuandengji>
+	</Row>
+	<Row>
+		<id>3</id>
+		<bianqiangxiang>坐骑</bianqiangxiang>
+		<tuijiandengji>33-66</tuijiandengji>
+		<tihuanxiang>翅膀</tihuanxiang>
+		<tihuandengji>67</tihuandengji>
+	</Row>
+	<Row>
+		<id>4</id>
+		<bianqiangxiang>宝石</bianqiangxiang>
+		<tuijiandengji>33-49</tuijiandengji>
+		<tihuanxiang>五行</tihuanxiang>
+		<tihuandengji>50</tihuandengji>
+	</Row>
+</recommendIntensifyLevel>

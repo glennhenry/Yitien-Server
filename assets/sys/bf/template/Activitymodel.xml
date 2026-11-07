@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<arena xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>704001</id>
+		<name>冲级大奖</name>
+		<finish>ssss</finish>
+		<finishAward>1_46314_10</finishAward>
+		<type>0</type>
+		<smallType>46115</smallType>
+		<finishQuery>1</finishQuery>
+	</Row>
+	<Row>
+		<id>704001</id>
+		<name>冲级大奖</name>
+		<finish>ssss</finish>		
+		<finishAward>1_46314_10</finishAward>
+		<type>0</type>
+		<smallType>1</smallType>
+		<finishQuery>1</finishQuery>
+	</Row>
+</arena>

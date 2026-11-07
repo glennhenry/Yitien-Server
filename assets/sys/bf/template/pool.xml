@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<poolLevel>1</poolLevel>
+		<levelUpNeed>41001</levelUpNeed>
+		<greenFish>50_50</greenFish>
+		<catFish>50_50</catFish>
+		<babyFish>50_50</babyFish>
+		<yellowFish></yellowFish>
+		<flatfish></flatfish>
+		<whiteShark></whiteShark>
+	</Row>
+	<Row>
+		<poolLevel>1</poolLevel>
+		<levelUpNeed>41001</levelUpNeed>
+		<greenFish>50_50</greenFish>
+		<catFish>50_50</catFish>
+		<babyFish>50_50</babyFish>
+		<yellowFish></yellowFish>
+		<flatfish></flatfish>
+		<whiteShark></whiteShark>
+	</Row>
+</pet>

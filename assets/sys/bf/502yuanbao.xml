@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<consumeTarger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<tool>1_44715_1</tool>
+		<buyType>1</buyType>
+		<sendMoney>24</sendMoney>
+		<startTime>2014-06-13</startTime>
+		<endTime>2014-06-16</endTime>
+	</Row>
+	<Row>
+		<id>2</id>
+		<tool>1_44529_1</tool>
+		<buyType>2</buyType>
+		<sendMoney>4</sendMoney>
+		<startTime>2014-06-13</startTime>
+		<endTime>2014-06-16</endTime>
+	</Row>
+	<Row>
+		<id>3</id>
+		<tool>1_44718_1</tool>
+		<buyType>2</buyType>
+		<sendMoney>160</sendMoney>
+		<startTime>2014-06-13</startTime>
+		<endTime>2014-06-16</endTime>
+	</Row>
+	<Row>
+		<id>4</id>
+		<tool>1_46312_1</tool>
+		<buyType>2</buyType>
+		<sendMoney>48</sendMoney>
+		<startTime>2014-06-13</startTime>
+		<endTime>2014-06-16</endTime>
+	</Row>
+</consumeTarger>

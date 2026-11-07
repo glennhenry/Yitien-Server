@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<qtype xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<name>《倚天》系统基础知识</name>
+		<describe>《倚天》游戏系统常识和日常活动的玩法选择题目内容。</describe>
+	</Row>
+	<Row>
+		<id>2</id>
+		<name>诗词歌赋</name>
+		<describe>古代诗词的对接。</describe>
+	</Row>
+	<Row>
+		<id>3</id>
+		<name>近代历史</name>
+		<describe>中西方近代发生的演变和规则</describe>
+	</Row>
+	<Row>
+		<id>4</id>
+		<name>脑筋急转弯</name>
+		<describe>泛指一些不能用通常的思路来回答的的智力问答题。</describe>
+	</Row>
+	<Row>
+		<id>5</id>
+		<name>歇后语</name>
+		<describe>歇后语是熟语的一种。熟语包括成语、谚语、惯用语和歇后语四种</describe>
+	</Row>
+	<Row>
+		<id>6</id>
+		<name>《倚天》武侠文化知识</name>
+		<describe>《倚天屠龙记》武侠文化背景和人物关系选择题目内容。</describe>
+	</Row>
+</qtype>

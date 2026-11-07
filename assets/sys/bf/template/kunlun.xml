@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>31101</id>
+		<level>1</level>
+		<col>颜色</col>
+		<time>刷新时间</time>
+		<num> 刷新数量</num>
+		<coo>狂刀斩</coo>
+	</Row>
+	<Row>
+		<id>31101</id>
+		<level>1</level>
+		<col>颜色</col>
+		<time>刷新时间</time>
+		<num> 刷新数量</num>
+		<coo>狂刀斩</coo>
+	</Row>
+</kls>

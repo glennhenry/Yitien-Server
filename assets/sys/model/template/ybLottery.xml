@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ybLottery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<award>1_44601_1</award>
+		<odds>1</odds>
+		<grid>1</grid>
+		<broadcast>0</broadcast>
+		<LotteryNum>0</LotteryNum>
+	</Row> 
+	<Row>
+		<id>1</id>
+		<award>1_44601_1</award>
+		<odds>1</odds>
+		<grid>1</grid>
+		<broadcast>0</broadcast>
+		<LotteryNum>0</LotteryNum>
+	</Row>
+</ybLottery>	

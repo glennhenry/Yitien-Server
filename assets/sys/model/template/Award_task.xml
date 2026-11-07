@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Award_task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>完成个数</id>
+		<prestige>奖励声望 </prestige>
+		<exp_beishu>奖励经验倍数</exp_beishu>
+		<toolId_num>奖励道具_数量</toolId_num> 
+		<band>是否绑定</band> 
+	</Row>	 
+	<Row>
+		<id>完成个数</id>
+		<prestige>奖励声望 </prestige>
+		<exp_beishu>奖励经验倍数</exp_beishu>
+		<toolId_num>奖励道具_数量</toolId_num> 
+		<band>是否绑定</band> 
+	</Row>	 
+</Award_task>	

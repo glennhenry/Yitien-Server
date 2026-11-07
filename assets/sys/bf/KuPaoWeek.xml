@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KuPao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<week>
+		<weekIntegral>1</weekIntegral>
+		<rewards>1_46255_3,1_43003_2,1_43013_2,1_46589_10</rewards>
+	</week>
+	<week>
+		<weekIntegral>2-10</weekIntegral>
+		<rewards>1_46255_1,1_43003_2,1_43013_2,1_46589_8</rewards>
+	</week>
+	<week>
+		<weekIntegral>11-50</weekIntegral>
+		<rewards>1_46254_3,1_43003_1,1_43013_1,1_46589_5</rewards>
+	</week>
+	<week>
+		<weekIntegral>51-1000</weekIntegral>
+		<rewards>1_46254_1,1_43003_1,1_43013_1,1_46589_3</rewards>
+	</week>
+</KuPao>

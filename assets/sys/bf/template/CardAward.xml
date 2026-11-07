@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>1</id>
+		<name>礼包</name>
+		<wpid>11</wpid>	
+		<wpType>1</wpType>	
+		<num>1</num>	
+		<type>1</type>	
+		<bindStatus>1</bindStatus>
+	</row>
+	<row>
+		<id>1</id>
+		<name>礼包</name>
+		<wpid>11</wpid>	
+		<wpType>1</wpType>	
+		<num>1</num>	
+		<type>1</type>	
+		<bindStatus>1</bindStatus>
+	</row>
+</NPC>

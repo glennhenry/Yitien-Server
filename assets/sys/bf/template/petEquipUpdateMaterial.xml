@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<petEquipTaoZhuang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<color>4</color>
+		<material>2_11_30,4_2_120</material>
+	</Row> 
+	<Row>
+		<level>1</level>
+		<color>4</color>
+		<material>2_11_30,4_2_120</material>
+	</Row> 
+</petEquipTaoZhuang>

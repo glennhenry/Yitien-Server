@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupBuyTurntable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<prizeID>1</prizeID><!-- 奖励ID下标 -->
+		<id>43001</id><!-- 物品ID -->
+		<order>1</order><!-- 排列顺序 -->
+		<prizeType>0</prizeType><!-- 奖励类型 -->
+		<prizeNum>1</prizeNum><!-- 奖励数量 -->
+		<first>30</first><!-- 第1次抽奖 -->
+		<second>30</second><!-- 第2次抽奖 -->
+		<third>30</third><!-- 第3次抽奖 -->
+		<forth>30</forth><!-- 第4次抽奖 -->
+		<fifth>30</fifth><!-- 第5次抽奖 -->
+		<sisth>30</sisth>
+		<seventh>30</seventh>
+		<eighth>30</eighth>
+		<ninth>30</ninth>
+		<tenth>30</tenth>
+		<eleventh>30</eleventh>
+		<twelfth>30</twelfth>
+	</Row>
+	<Row>
+		<prizeID>1</prizeID><!-- 奖励ID -->
+		<id>43001</id><!-- 物品ID -->
+		<order>1</order><!-- 排列顺序 -->
+		<prizeType>0</prizeType><!-- 奖励类型 -->
+		<prizeNum>1</prizeNum><!-- 奖励数量 -->
+		<first>30</first><!-- 第1次抽奖 -->
+		<second>30</second><!-- 第2次抽奖 -->
+		<third>30</third><!-- 第3次抽奖 -->
+		<forth>30</forth><!-- 第4次抽奖 -->
+		<fifth>30</fifth><!-- 第5次抽奖 -->
+		<sisth>30</sisth>
+		<seventh>30</seventh>
+		<eighth>30</eighth>
+		<ninth>30</ninth>
+		<tenth>30</tenth>
+		<eleventh>30</eleventh>
+		<twelfth>30</twelfth>
+	</Row>
+</groupBuyTurntable>

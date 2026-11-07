@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<onlineWelfare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<award>1_43012_1,1_46011_3,1_46410_1</award>
+	</Row>
+	<Row>
+		<level>1</level>
+		<award>1_43012_1,1_46011_3,1_46410_1</award>
+	</Row>
+</onlineWelfare>	

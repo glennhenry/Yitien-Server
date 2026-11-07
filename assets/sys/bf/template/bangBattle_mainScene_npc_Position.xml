@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<type>1</type>
+		<position>1_2_3</position>
+	</row>
+	<row>
+		<type>1</type>
+		<position>2_3_2</position>
+	</row>
+</Data>

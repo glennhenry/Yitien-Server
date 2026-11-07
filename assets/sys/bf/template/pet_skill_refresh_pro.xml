@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 宠物技能刷新概率 -->
+<pet_skill_refresh_pro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<skillId>36001</skillId>
+		<pro0>970</pro0> 
+		<pro1>970</pro1> 
+		<pro2>970</pro2> 
+		<pro3>970</pro3> 
+		<pro4>970</pro4> 
+		<pro5>970</pro5> 
+		<type>1</type>  
+		<pro6>970</pro6>  
+		<pro7>970</pro7>  
+		<pro8>970</pro8>  
+		<pro9>970</pro9>  
+		<pro10>970</pro10>
+	</Row>  
+	<Row>
+		<skillId>36002</skillId>
+		<pro0>970</pro0> 
+		<pro1>970</pro1> 
+		<pro2>970</pro2> 
+		<pro3>970</pro3> 
+		<pro4>970</pro4> 
+		<pro5>970</pro5> 
+		<type>2</type>   
+		<pro6>970</pro6>  
+		<pro7>970</pro7>  
+		<pro8>970</pro8>  
+		<pro9>970</pro9>  
+		<pro10>970</pro10>
+	</Row>  
+</pet_skill_refresh_pro>	

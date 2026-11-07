@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<value>1</value>
+		<fullValue>5</fullValue>
+		<type>1</type>
+		<toolId>46011</toolId>
+		<num>10</num>
+	</item>
+	<item>
+		<id>2</id>
+		<value>1</value>
+		<fullValue>5</fullValue>
+		<type>1</type>
+		<toolId>46071</toolId>
+		<num>3</num>
+	</item>
+	<item>
+		<id>3</id>
+		<value>3</value>
+		<fullValue>15</fullValue>
+		<type>1</type>
+		<toolId>46062</toolId>
+		<num>10</num>
+	</item>
+	<item>
+		<id>4</id>
+		<value>50</value>
+		<fullValue>250</fullValue>
+		<type>1</type>
+		<toolId>46255</toolId>
+		<num>4</num>
+	</item>
+</items>

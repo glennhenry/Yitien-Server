@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hugPartnerSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<name>加速</name>
+		<useType>1</useType>
+		<effective>移动速度提高50%</effective>
+		<duration>8</duration>
+		<coolDown>30</coolDown>
+		<effectiveRange>0</effectiveRange>
+	</Row>
+	<Row>
+		<id>2</id>
+		<name>免疫</name>
+		<useType>1</useType>
+		<effective>自身免疫负面 buff </effective>
+		<duration>3</duration>
+		<coolDown>10</coolDown>
+		<effectiveRange>0</effectiveRange>
+	</Row>
+	<Row>
+		<id>3</id>
+		<name>定身</name>
+		<useType>2</useType>
+		<effective>定身（目标可释放技能）</effective>
+		<duration>3</duration>
+		<coolDown>10</coolDown>
+		<effectiveRange>5</effectiveRange>
+	</Row>
+	<Row>
+		<id>4</id>
+		<name>眩晕</name>
+		<useType>2</useType>
+		<effective>眩晕（目标不可释放技能）</effective>
+		<duration>3</duration>
+		<coolDown>10</coolDown>
+		<effectiveRange>5</effectiveRange>
+	</Row>
+</hugPartnerSkill>

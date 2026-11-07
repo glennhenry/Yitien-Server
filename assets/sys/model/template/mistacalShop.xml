@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mistacalShop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<shopId>707101</shopId>
+		<heroLevel>1</heroLevel>
+		<name>神秘商城</name>
+		<wpid>43061</wpid>
+		<type>1</type>
+		<sellNum>1</sellNum>
+		<bind>0</bind>
+		<price>100</price>
+		<moneyType>16</moneyType>
+		<per>2</per>
+		<rare>0</rare>
+		<treasure>1</treasure>
+		<use>增加角色打怪获得2倍经验，持续时间30分钟</use>
+	</row>
+	<row>
+		<shopId>707102</shopId>
+		<heroLevel>1</heroLevel>
+		<name>神秘商城</name>
+		<wpid>43062</wpid>
+		<type>1</type>
+		<sellNum>1</sellNum>
+		<bind>0</bind>
+		<price>30</price>
+		<moneyType>16</moneyType>
+		<per>8</per>
+		<rare>0</rare>
+		<treasure>0</treasure>
+		<use>增加角色打怪获得1.75倍经验，持续时间30分钟</use>
+	</row>
+</mistacalShop>

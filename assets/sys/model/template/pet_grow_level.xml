@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pet_grow_level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>2</level>
+		<exp>233</exp> 
+	</Row> 
+	<Row>
+		<level>3</level>
+		<exp>235</exp> 
+	</Row>
+</pet_grow_level>	

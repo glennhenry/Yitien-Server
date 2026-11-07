@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hugPartnerSkillCost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<num>1</num>
+		<speedCost>1</speedCost>
+		<immunizationCost>1</immunizationCost>
+		<holdersoCost>1</holdersoCost>
+		<dizzinessCost>1</dizzinessCost>
+	</Row> 
+	<Row>
+		<num>1</num>
+		<speedCost>1</speedCost>
+		<immunizationCost>1</immunizationCost>
+		<holdersoCost>1</holdersoCost>
+		<dizzinessCost>1</dizzinessCost>
+	</Row> 
+</hugPartnerSkillCost>	

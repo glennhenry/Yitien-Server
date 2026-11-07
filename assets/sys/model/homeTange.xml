@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<homeTange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<flourish>100</flourish>
+		<homeMoney>250</homeMoney>
+		<needMoney>0</needMoney>
+		<addValue>4</addValue>
+	</Row>
+	<Row>
+		<id>2</id>
+		<flourish>300</flourish>
+		<homeMoney>750</homeMoney>
+		<needMoney>0</needMoney>
+		<addValue>40</addValue>
+	</Row>
+	<Row>
+		<id>3</id>
+		<flourish>800</flourish>
+		<homeMoney>1500</homeMoney>
+		<needMoney>0</needMoney>
+		<addValue>48</addValue>
+	</Row>
+	<Row>
+		<id>4</id>
+		<flourish>0</flourish>
+		<homeMoney>0</homeMoney>
+		<needMoney>120</needMoney>
+		<addValue>72</addValue>
+	</Row>
+</homeTange>

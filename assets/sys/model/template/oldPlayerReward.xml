@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<castCost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<unLoginDays></unLoginDays>
+		<loginDays></loginDays>
+		<level></level>
+		<reward></reward>
+	</row>
+	<row>
+		<unLoginDays></unLoginDays>
+		<loginDays></loginDays>
+		<level></level>
+		<reward></reward>
+	</row>
+
+</castCost>	

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<petTangeAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>512</condition>
+		<tool>1_46308_1,1_46308_1,1_46308_1</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<condition>1280</condition>
+		<tool>1_46309_1,1_46309_1,1_46308_1</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<condition>2560</condition>
+		<tool>1_46309_1,1_46309_1,1_46309_1</tool>
+	</Row>
+</petTangeAward>

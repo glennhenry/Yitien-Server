@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<petEquipColor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<color>1</color>
+		<needLevel>1</needLevel>
+		<wuQiValue>84_20,81_20</wuQiValue>
+		<kaiJiaValue>84_20,81_20</kaiJiaValue>
+		<huWanValue>84_20,81_20</huWanValue>
+		<xieZiValue>84_20,81_20</xieZiValue>
+	</Row> 
+	<Row>
+		<color>1</color>
+		<needLevel>1</needLevel>
+		<wuQiValue>84_20,81_20</wuQiValue>
+		<kaiJiaValue>84_20,81_20</kaiJiaValue>
+		<huWanValue>84_20,81_20</huWanValue>
+		<xieZiValue>84_20,81_20</xieZiValue>
+	</Row> 
+</petEquipColor>	

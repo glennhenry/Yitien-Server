@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rechargeAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<allMoney>1</allMoney>
+		<awardId>1</awardId>
+	</Row>
+	<Row>
+		<id>1</id>
+		<allMoney>1</allMoney>
+		<awardId>1</awardId>
+	</Row>
+</rechargeAward>	

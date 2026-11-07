@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hallInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<updateCost>200</updateCost>
+		<serviceCost>200</serviceCost>
+ 		<leaderNum>1</leaderNum>
+		<viceLeaderNum>20</viceLeaderNum>
+		<elderNum>1000</elderNum>
+		<totalNum>20</totalNum>
+	</Row>
+	<Row>
+		<level>1</level>
+		<updateCost>200</updateCost>
+		<serviceCost>200</serviceCost>
+ 		<leaderNum>1</leaderNum>
+		<viceLeaderNum>20</viceLeaderNum>
+		<elderNum>1000</elderNum>
+		<totalNum>20</totalNum>
+	</Row>
+</hallInfo>	

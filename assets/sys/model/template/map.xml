@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>96001</id>
+		<name>yes</name>
+		<type>0</type>
+		<vigor>0</vigor>
+		<info>2</info>
+		<dieMapId>2</dieMapId>
+		<level>2</level>
+	</Row>
+	<Row>
+		<id>96001</id>
+		<name>yes</name>
+		<type>0</type>
+		<vigor>0</vigor>
+		<info>2</info>
+		<dieMapId>2</dieMapId>
+		<level>2</level>
+	</Row>	
+</map>	

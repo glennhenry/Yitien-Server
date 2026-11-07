@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HeFuRechargeAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<allMoney>1</allMoney>
+		<awardId>1_46308_1,1_46307_2</awardId>
+	</Row>
+	<Row>
+		<id>1</id>
+		<allMoney>1</allMoney>
+		<awardId>1_46308_1,1_46307_2</awardId>
+	</Row>
+	<Row>
+		<id>1</id>
+		<allMoney>1</allMoney>
+		<awardId>1_46308_1,1_46307_2</awardId>
+	</Row>
+</HeFuRechargeAward>

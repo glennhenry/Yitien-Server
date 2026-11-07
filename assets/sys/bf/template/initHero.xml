@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>2</level>
+		<hp>252</hp>
+		<mp>70.5</mp>
+		<att>108</att>
+		<def>37</def>
+		<ar>105</ar>
+		<dod>26</dod>
+		<crit>102</crit>
+		<critv>1.5</critv>
+		<repelv>0</repelv>
+		<attspeed>20</attspeed>
+		<mspeed>140</mspeed>
+		<damgr>0</damgr>
+	</Row>
+	<Row>
+		<level>2</level>
+		<hp>252</hp>
+		<mp>70.5</mp>
+		<att>108</att>
+		<def>37</def>
+		<ar>105</ar>
+		<dod>26</dod>
+		<crit>102</crit>
+		<critv>1.5</critv>
+		<repelv>0</repelv>
+		<attspeed>20</attspeed>
+		<mspeed>140</mspeed>
+		<damgr>0</damgr>
+	</Row>
+</hero>

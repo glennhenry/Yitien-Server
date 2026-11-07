@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strengthRank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<describe>1</describe>
+		<tool>1_46255_3,1_46063_5,1_44485_5,1_46412_3</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<describe>2</describe>
+		<tool>1_46255_1,1_46063_3,1_44485_2,1_46412_2</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<describe>3_5</describe>
+		<tool>1_46254_2,1_46063_1,1_46412_1</tool>
+	</Row>
+	<Row>
+		<id>4</id>
+		<describe>6_10</describe>
+		<tool>1_46254_1,1_46412_1</tool>
+	</Row>
+</strengthRank>

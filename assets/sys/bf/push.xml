@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<push xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<event>第二天又经验可找回发送push推送信息</event>
+		<message>您有未完成的任务，今天可通过经验找回来弥补昨天损失。赶快来吧！</message>
+	</Row>
+	<Row>
+		<id>2</id>
+		<event>当前角色体力已满、赠送美味佳肴时发送push推送信息</event>
+		<message>现在全身的体力值已爆满，人间美味佳肴已呈现在你面前，快快归来吧！</message>
+	</Row>
+	
+	<Row>
+		<id>3</id>
+		<event>两天未登陆的玩家成为农夫时发送push推送信息</event>
+		<message>山中无老虎猴子称大王，在你不在的这几天，天天被人蹂躏，拉去做农夫，看地，抓贼，做苦工。</message>
+	</Row>
+	<Row>
+		<id>4</id>
+		<event>游戏每更新一个版本即对当前所在的Q+用户发送push推送信息</event>
+		<message>《倚天》据说添加新玩法了，众多武林好友舍不得你。快回来一起称霸武林吧！O(∩_∩)O哈哈~</message>
+	</Row>
+</push>

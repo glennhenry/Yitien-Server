@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>96001</id>
+		<name>yes</name>
+		<type>0</type>
+		<leibie>0</leibie>
+		<b1>2</b1>
+		<v1>2</v1>
+		<b2>2</b2>
+		<v2>2</v2>
+		<b3>3</b3>
+		<v3>3</v3>
+		<lastTime>3</lastTime>
+		<lastType>3</lastType>
+		<pic>3</pic>
+		<effect>3</effect>
+		<desc>yes</desc>
+	</Row>
+	<Row>
+		<id>96001</id>
+		<name>yes</name>
+		<type>0</type>
+		<leibie>0</leibie>
+		<b1>2</b1>
+		<v1>2</v1>
+		<b2>2</b2>
+		<v2>2</v2>
+		<b3>3</b3>
+		<v3>3</v3>
+		<lastTime>3</lastTime>
+		<lastType>3</lastType>
+		<pic>3</pic>
+		<effect>3</effect>
+		<desc>yes</desc>
+	</Row>	
+</equipment>	

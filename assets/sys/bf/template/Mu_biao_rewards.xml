@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Mu_biao_rewards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<index>碎片id</index>
+		<job1_rewards>1:天刀门奖励</job1_rewards>
+		<job2_rewards>2.逍遥剑派奖励</job2_rewards>
+		<job3_rewards>3.医仙谷奖励</job3_rewards> 
+		<job4_rewards>4.刺客盟奖励 </job4_rewards> 
+	</Row>	 
+	<Row>
+		<index>碎片id</index>
+		<job1_rewards>1:天刀门奖励</job1_rewards>
+		<job2_rewards>2.逍遥剑派奖励</job2_rewards>
+		<job3_rewards>3.医仙谷奖励</job3_rewards> 
+		<job4_rewards>4.刺客盟奖励 </job4_rewards> 
+	</Row>
+</Mu_biao_rewards>	

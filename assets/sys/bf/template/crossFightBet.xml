@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<lv>1-8</lv>
+		<r16>2000_3</r16>
+		<r8>2000_3</r8>
+		<r4>2000_3</r4>
+		<r2>2000_3</r2>
+		<r1>2000_3</r1>
+	</row>
+	<row>
+		<lv>1-8</lv>
+		<r16>2000_3</r16>
+		<r8>2000_3</r8>
+		<r4>2000_3</r4>
+		<r2>2000_3</r2>
+		<r1>2000_3</r1>
+	</row>
+</NPC>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<forgePill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>2</id>
+		<name>abc</name>
+		<moneyNum>26</moneyNum>
+		<silver>26</silver>
+		<materials>3_1,2_2</materials>
+		<forgeID>1</forgeID>
+		<forgeType>1</forgeType>
+	</Row>
+	<Row>
+		<id>2</id>
+		<name>abc</name>
+		<moneyNum>26</moneyNum>
+		<silver>26</silver>
+		<materials>3_1,2_2</materials>
+		<forgeType>1</forgeType>
+	</Row>
+
+</forgePill>	

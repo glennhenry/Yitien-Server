@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<arena xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>39440</id>
+		<price>35</price>
+	</Row>
+	<Row>
+		<id>39445</id>
+		<price>35</price>
+	</Row>
+	<Row>
+		<id>39450</id>
+		<price>35</price>
+	</Row>
+	<Row>
+		<id>39455</id>
+		<price>35</price>
+	</Row>
+	<Row>
+		<id>39460</id>
+		<price>35</price>
+	</Row>
+	<Row>
+		<id>39465</id>
+		<price>35</price>
+	</Row>
+</arena>

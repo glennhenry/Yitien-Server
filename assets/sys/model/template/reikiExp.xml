@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ReikiExp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>玩家等级 </level>
+		<exp1>第1次经验</exp1>
+		<exp2>第2次经验</exp2>
+		<exp3>第3次经验</exp3> 
+	</Row> 
+	<Row>
+		<level>玩家等级 </level>
+		<exp1>第1次经验</exp1>
+		<exp2>第2次经验</exp2>
+		<exp3>第3次经验</exp3> 
+	</Row> 
+</ReikiExp>	

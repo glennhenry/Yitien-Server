@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CommonTreasure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<toolID>10</toolID>
+		<guanBo>1_46201_2</guanBo>
+		<DigMsg>1</DigMsg>
+		<zhengBaoGuan>10</zhengBaoGuan>
+		<probabilty>1</probabilty>
+		<tie>1</tie>
+	</Row>
+	<Row>
+		<id>1</id>
+		<toolID>1_46201_3</toolID>
+		<guanBo>1</guanBo>
+		<DigMsg>1</DigMsg>
+		<zhengBaoGuan>1</zhengBaoGuan>
+		<probabilty>1</probabilty>
+		<tie>1</tie>
+	</Row>
+</CommonTreasure>	

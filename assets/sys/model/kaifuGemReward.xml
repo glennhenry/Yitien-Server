@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<gemLevelNum>4_10</gemLevelNum>
+		<awards>1_45417_5,1_46887_2</awards>
+		<discript>镶嵌10个4级以上宝石已经镶嵌{0}</discript>
+	</item>
+	<item>
+		<id>2</id>
+		<gemLevelNum>4_20</gemLevelNum>
+		<awards>1_45417_8,1_46887_2</awards>
+		<discript>镶嵌20个4级以上宝石已经镶嵌{0}</discript>
+	</item>
+	<item>
+		<id>3</id>
+		<gemLevelNum>4_40</gemLevelNum>
+		<awards>1_45430_3,1_46887_4</awards>
+		<discript>镶嵌40个4级以上宝石已经镶嵌{0}</discript>
+	</item>
+	<item>
+		<id>4</id>
+		<gemLevelNum>5_20</gemLevelNum>
+		<awards>1_45430_5,1_46887_10</awards>
+		<discript>镶嵌20个5级以上宝石已经镶嵌{0}</discript>
+	</item>
+</items>

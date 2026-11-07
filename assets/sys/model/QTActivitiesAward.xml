@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rechargeAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<totalDay>1</totalDay>
+		<award>45528</award>
+		<banding>1</banding>
+	</Row>
+	<Row>
+		<id>2</id>
+		<totalDay>4</totalDay>
+		<award>45529</award>
+		<banding>1</banding>
+	</Row>
+	<Row>
+		<id>3</id>
+		<totalDay>7</totalDay>
+		<award>45530</award>
+		<banding>1</banding>
+	</Row>
+	<Row>
+		<id>4</id>
+		<totalDay>14</totalDay>
+		<award>45531</award>
+		<banding>1</banding>
+	</Row>
+	<Row>
+		<id>5</id>
+		<totalDay>30</totalDay>
+		<award>45532</award>
+		<banding>1</banding>
+	</Row>
+</rechargeAward>

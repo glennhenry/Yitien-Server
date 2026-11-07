@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>41001</id>
+		<percent>225</percent>
+	</row>
+	<row>
+		<id>41011</id>
+		<percent>225</percent>
+	</row>
+	<row>
+		<id>41021</id>
+		<percent>225</percent>
+	</row>
+	<row>
+		<id>41081</id>
+		<percent>225</percent>
+	</row>
+	<row>
+		<id>41002</id>
+		<percent>25</percent>
+	</row>
+	<row>
+		<id>41012</id>
+		<percent>25</percent>
+	</row>
+	<row>
+		<id>41022</id>
+		<percent>25</percent>
+	</row>
+	<row>
+		<id>41082</id>
+		<percent>25</percent>
+	</row>
+</data>

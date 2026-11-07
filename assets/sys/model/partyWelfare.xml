@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<partyWelfare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<renshubi>30</renshubi>
+		<award>1_46566_1,1_46201_1,1_43041_1</award>
+	</Row>
+	<Row>
+		<level>2</level>
+		<renshubi>50</renshubi>
+		<award>1_46567_1,1_46201_1,1_43052_1,1_46409_1</award>
+	</Row>
+	<Row>
+		<level>3</level>
+		<renshubi>70</renshubi>
+		<award>1_46568_1,1_46201_2,1_43022_1,1_46401_1</award>
+	</Row>
+	<Row>
+		<level>4</level>
+		<renshubi>80</renshubi>
+		<award>1_46569_1,1_46201_2,1_43023_1,1_46410_1</award>
+	</Row>
+	<Row>
+		<level>5</level>
+		<renshubi>90</renshubi>
+		<award>1_46570_1,1_46201_5,1_43043_1,1_46402_1</award>
+	</Row>
+</partyWelfare>

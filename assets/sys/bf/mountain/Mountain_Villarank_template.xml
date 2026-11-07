@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MountainVillarank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<villaRank>1</villaRank>
+		<villaUpgradeExp>1180</villaUpgradeExp>
+		<farmerCeiling>0</farmerCeiling>
+	</Row>
+	<Row>
+		<villaRank>1</villaRank>
+		<villaUpgradeExp>1180</villaUpgradeExp>
+		<farmerCeiling>0</farmerCeiling>
+	</Row>
+</MountainVillarank>

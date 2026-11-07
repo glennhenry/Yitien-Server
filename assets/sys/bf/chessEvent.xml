@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chessEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<type>1</type>
+		<content>风平浪静，什么都没有发生</content>
+		<eventGL>8</eventGL>
+	</Row>
+	<Row>
+		<id>2</id>
+		<type>1</type>
+		<content>谜棋触发了神秘诅咒，全体阵亡</content>
+		<eventGL>5</eventGL>
+	</Row>
+	<Row>
+		<id>3</id>
+		<type>2</type>
+		<content>珍珑之魄：擅闯者？杀！杀！杀！</content>
+		<eventGL>10</eventGL>
+	</Row>
+	<Row>
+		<id>4</id>
+		<type>1</type>
+		<content>棋魂战意，珍珑之魂等级+1</content>
+		<eventGL>5</eventGL>
+	</Row>
+	<Row>
+		<id>5</id>
+		<type>1</type>
+		<content>气势如虹，珍珑之魂等级-1</content>
+		<eventGL>5</eventGL>
+	</Row>
+	<Row>
+		<id>6</id>
+		<type>1</type>
+		<content>棋魂怨念，队伍伤害加成级别-1</content>
+		<eventGL>8</eventGL>
+	</Row>
+	<Row>
+		<id>7</id>
+		<type>1</type>
+		<content>神力灌顶，队伍伤害加成级别+1</content>
+		<eventGL>8</eventGL>
+	</Row>
+	<Row>
+		<id>8</id>
+		<type>1</type>
+		<content>意外横财，获得&lt;font color='#00CC33'&gt;小银票*1&lt;/font&gt;</content>
+		<eventGL>10</eventGL>
+	</Row>
+	<Row>
+		<id>9</id>
+		<type>1</type>
+		<content>喜从天降，获得&lt;font color='#00CC33'&gt;小银票*5&lt;/font&gt;</content>
+		<eventGL>2</eventGL>
+	</Row>
+	<Row>
+		<id>10</id>
+		<type>1</type>
+		<content>意外横财，获得&lt;font color='#00CC33'&gt;礼券*1&lt;/font&gt;</content>
+		<eventGL>10</eventGL>
+	</Row>
+	<Row>
+		<id>11</id>
+		<type>1</type>
+		<content>喜从天降，获得&lt;font color='#00CC33'&gt;礼券*5&lt;/font&gt;</content>
+		<eventGL>2</eventGL>
+	</Row>
+	<Row>
+		<id>12</id>
+		<type>1</type>
+		<content>喜从天降，获得&lt;font color='#00CC33'&gt;低级声望券*1&lt;/font&gt;</content>
+		<eventGL>5</eventGL>
+	</Row>
+	<Row>
+		<id>13</id>
+		<type>1</type>
+		<content>喜从天降，获得&lt;font color='#00CC33'&gt;100体力药剂*1&lt;/font&gt;</content>
+		<eventGL>5</eventGL>
+	</Row>
+	<Row>
+		<id>14</id>
+		<type>1</type>
+		<content>意外横财，获得&lt;font color='#00CC33'&gt;1级宝石盒*1&lt;/font&gt;</content>
+		<eventGL>10</eventGL>
+	</Row>
+	<Row>
+		<id>15</id>
+		<type>1</type>
+		<content>喜从天降，获得&lt;font color='#00CC33'&gt;2级宝石盒*1&lt;/font&gt;</content>
+		<eventGL>2</eventGL>
+	</Row>
+	<Row>
+		<id>16</id>
+		<type>1</type>
+		<content>珍珑遗宝，获得&lt;font color='#7030A0'&gt;{0}宝箱Lv.1*1&lt;/font&gt;</content>
+		<eventGL>5</eventGL>
+	</Row>
+</chessEvent>

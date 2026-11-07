@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<wpid>44979</wpid>
+		<name>藏宝图(团购)</name>
+		<award>1_41006_1_1,1_41016_1_1,1_41026_1_1,1_41086_1_1,2_99115_1_1,1_44896_1_1,1_44905_1_1,1_44914_1_1,1_44968_1_1,2_99116_1_1</award>
+	</Row>
+</pet>

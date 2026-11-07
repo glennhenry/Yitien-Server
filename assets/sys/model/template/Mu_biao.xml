@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Mu_biao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<sid>系统任务ID</sid>
+		<fid>功能ID</fid>
+		<index>碎片Index</index>
+		<fvalue>功能值</fvalue> 
+	</Row>	
+	<Row>
+		<sid>系统任务ID</sid>
+		<fid>功能ID</fid>
+		<index>碎片Index</index>
+		<fvalue>功能值</fvalue> 
+	</Row>	
+</Mu_biao>	

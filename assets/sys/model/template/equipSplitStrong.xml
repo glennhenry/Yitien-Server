@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<strong>1</strong>
+		<wp>44005_40101</wp>
+		<worst>1_1</worst>
+		<normal>1_1</normal>
+		<better>1_1</better>
+		<best>1_1</best>
+	</Row>
+	<Row>
+		<strong>1</strong>
+		<wp>44005_40101</wp>
+		<worst>1_1</worst>
+		<normal>1_1</normal>
+		<better>1_1</better>
+		<best>1_1</best>
+	</Row>
+</equipment>	

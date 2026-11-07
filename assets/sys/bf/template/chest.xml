@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<wpid>46367</wpid>
+		<name>白银宝箱(初)</name>
+		<bind>1</bind>
+		<award>3_500_1_900_1,1_43064_1_100_1</award>
+	</Row>
+	<Row>
+		<wpid>46368</wpid>
+		<name>紫金宝箱(初)</name>
+		<bind>1</bind>
+		<award>3_1000_1_650_1,1_43064_1_200_1,1_41001_1_25_1,1_41011_1_25_1,1_41021_1_25_1,1_41081_1_25_1,1_46280_1_50_0</award>
+	</Row>
+</pet>

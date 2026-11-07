@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MountainLandexpan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<landId>41001</landId>
+		<villaLevelRequire>1级攻击石</villaLevelRequire>
+		<consumeType>1</consumeType>
+		<consumePrice>1</consumePrice>
+	</Row>
+	<Row>
+		<landId>41001</landId>
+		<villaLevelRequire>1级攻击石</villaLevelRequire>
+		<consumeType>1</consumeType>
+		<consumePrice>1</consumePrice>
+	</Row>
+</MountainLandexpan>

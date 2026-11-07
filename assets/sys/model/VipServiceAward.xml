@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VipServiceAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<toolId>43003</toolId>
+		<num>1</num>
+		<value>128</value>
+	</Row>
+	<Row>
+		<toolId>43013</toolId>
+		<num>1</num>
+		<value>128</value>
+	</Row>
+	<Row>
+		<toolId>46227</toolId>
+		<num>1</num>
+		<value>2000</value>
+	</Row>
+	<Row>
+		<toolId>44725</toolId>
+		<num>5</num>
+		<value>75</value>
+	</Row>
+</VipServiceAward>

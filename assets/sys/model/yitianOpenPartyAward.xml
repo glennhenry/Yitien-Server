@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<consumeExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<leaderAward1>1_44722_3</leaderAward1>
+		<partyerAward1>1_45448_1</partyerAward1>
+		<leaderAward2>1_44722_2</leaderAward2>
+		<partyerAward2>1_45449_1</partyerAward2>
+		<leaderAward3>1_44722_2</leaderAward3>
+		<partyerAward3>1_45450_1</partyerAward3>
+	</Row>
+	<Row>
+		<id>2</id>
+		<leaderAward1>1_44722_3</leaderAward1>
+		<partyerAward1>1_45448_1</partyerAward1>
+		<leaderAward2>1_44722_2</leaderAward2>
+		<partyerAward2>1_45449_1</partyerAward2>
+		<leaderAward3>1_44722_2</leaderAward3>
+		<partyerAward3>1_45450_1</partyerAward3>
+	</Row>
+	<Row>
+		<id>3</id>
+		<leaderAward1>1_44722_3</leaderAward1>
+		<partyerAward1>1_45448_1</partyerAward1>
+		<leaderAward2>1_44722_2</leaderAward2>
+		<partyerAward2>1_45449_1</partyerAward2>
+		<leaderAward3>1_44722_2</leaderAward3>
+		<partyerAward3>1_45450_1</partyerAward3>
+	</Row>
+</consumeExchange>

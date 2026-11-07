@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lostExpCost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<name>abc</name>
+		<en>abc</en>
+		<money>1</money>
+		<silver>1</silver>
+	</Row>
+	<Row>
+		<name>abc</name>
+		<en>abc</en>
+		<money>1</money>
+		<silver>1</silver>
+	</Row>
+</lostExpCost>	

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RideNewFeel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<type>1</type>
+		<level>1</level>
+		<exp>100</exp>
+		<addPro>50</addPro>
+		<rideLevel>1</rideLevel>
+	</Row>
+	<Row>
+		<type>1</type>
+		<level>2</level>
+		<exp>200</exp>
+		<addPro>60</addPro>
+		<rideLevel>1</rideLevel>
+	</Row>
+</RideNewFeel>

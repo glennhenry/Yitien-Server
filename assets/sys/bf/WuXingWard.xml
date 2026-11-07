@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<WuXingWard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>10</condition>
+		<tool>1_44587_3,1_44587_3,1_44587_3</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<condition>40</condition>
+		<tool>1_44587_11,1_44587_11,1_44587_11</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<condition>100</condition>
+		<tool>1_44587_40,1_44587_40,1_44587_40</tool>
+	</Row>
+</WuXingWard>

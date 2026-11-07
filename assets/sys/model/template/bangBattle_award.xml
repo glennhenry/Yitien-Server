@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<position>1</position>
+		<tid>200</tid>
+		<name>200</name>
+		<caifu>200</caifu>
+		<exp>200</exp>
+		<canyuTool>200</canyuTool>
+		<canyuNum>200</canyuNum>
+	</Row>
+	<Row>
+		<position>1</position>
+		<tid>200</tid>
+		<name>200</name>
+		<caifu>200</caifu>
+		<exp>200</exp>
+		<canyuTool>200</canyuTool>
+		<canyuNum>200</canyuNum>
+	</Row>
+</bba>	

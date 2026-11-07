@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<qtype xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<name>《倚天》系统基础知识</name>
+		<option>《倚天》游戏系统常识和日常活动的玩法选择题目内容。</option>
+		<answer>1</answer>
+	</Row>
+	<Row>
+		<id>1</id>
+		<name>《倚天》系统基础知识</name>
+		<option>《倚天》游戏系统常识和日常活动的玩法选择题目内容。</option>
+		<answer>1</answer>
+	</Row>
+</qtype>

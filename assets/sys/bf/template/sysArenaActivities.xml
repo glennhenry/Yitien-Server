@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<sysArenaActivities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<rankStr>排行段</rankStr>
+		<prestige>声望奖励</prestige>
+		<wid>物品ID</wid>
+		<type>物品类型</type>
+		<num>物品数量</num>
+		<bind>绑定状态</bind> 
+	</Row>  
+	<Row>
+		<rankStr>排行段</rankStr>
+		<prestige>声望奖励</prestige>
+		<wid>物品ID</wid>
+		<type>物品类型</type>
+		<num>物品数量</num>
+		<bind>绑定状态</bind> 
+	</Row>  
+</sysArenaActivities>

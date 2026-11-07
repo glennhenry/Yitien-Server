@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ghostprize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<quality>1</quality>
+		<prizeOne>10</prizeOne>
+		<prizeTwo>11</prizeTwo>
+		<prizeThree>12</prizeThree>
+		<needSilver>2500</needSilver>
+	</Row>
+	<Row>
+		<quality>2</quality>
+		<prizeOne>13</prizeOne>
+		<prizeTwo>14</prizeTwo>
+		<prizeThree>15</prizeThree>
+		<needSilver>5000</needSilver>
+	</Row>
+	<Row>
+		<quality>3</quality>
+		<prizeOne>16</prizeOne>
+		<prizeTwo>17</prizeTwo>
+		<prizeThree>18</prizeThree>
+		<needSilver>10000</needSilver>
+	</Row>
+	<Row>
+		<quality>4</quality>
+		<prizeOne>20</prizeOne>
+		<prizeTwo>21</prizeTwo>
+		<prizeThree>22</prizeThree>
+		<needSilver>0</needSilver>
+	</Row>
+</ghostprize>

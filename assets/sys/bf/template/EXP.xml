@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<level>1</level>
+		<exp>2000</exp>
+		<saveExpLimit>5555</saveExpLimit>
+	</row>
+	<row>
+		<level>2</level>
+		<exp>2000</exp>
+		<saveExpLimit>5555</saveExpLimit>
+	</row>
+</NPC>

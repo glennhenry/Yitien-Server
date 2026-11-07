@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cardGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<level>45</level>
+		<money>0</money>
+	</Row>
+	<Row>
+		<id>2</id>
+		<level>55</level>
+		<money>600</money>
+	</Row>
+	<Row>
+		<id>3</id>
+		<level>65</level>
+		<money>1300</money>
+	</Row>
+	<Row>
+		<id>4</id>
+		<level>75</level>
+		<money>2000</money>
+	</Row>
+	<Row>
+		<id>5</id>
+		<level>85</level>
+		<money>3000</money>
+	</Row>
+</cardGame>

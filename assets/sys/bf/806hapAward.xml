@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<consumeTarger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<tool>1_44520_10</tool>
+		<needScore>5000</needScore>
+	</Row>
+	<Row>
+		<id>2</id>
+		<tool>1_45525_25</tool>
+		<needScore>30000</needScore>
+	</Row>
+	<Row>
+		<id>3</id>
+		<tool>1_46213_20</tool>
+		<needScore>200000</needScore>
+	</Row>
+</consumeTarger>

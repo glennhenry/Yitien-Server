@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kunlun_lixianTop100_bind xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<num>1</num>
+		<awards>44789_10</awards>
+	</Row>
+	<Row>
+		<num>2~10</num>
+		<awards>44789_8</awards>
+	</Row>
+	<Row>
+		<num>11~50</num>
+		<awards>44789_6</awards>
+	</Row>
+	<Row>
+		<num>50~100</num>
+		<awards>44789_4</awards>
+	</Row>
+</kunlun_lixianTop100_bind>

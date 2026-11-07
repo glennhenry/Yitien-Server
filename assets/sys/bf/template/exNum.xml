@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<num>1</num>
+		<percent>2000</percent>
+	</row>
+	<row>
+		<num>1</num>
+		<percent>2000</percent>
+	</row>
+</Data>

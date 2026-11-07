@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<blessLv>1</blessLv>
+		<blessWin>46549</blessWin>
+		<blessLose>46550</blessLose>
+		<blessExp>5</blessExp>
+		<needMoney>0</needMoney>
+	</row>
+	<row>
+		<blessLv>2</blessLv>
+		<blessWin>46551</blessWin>
+		<blessLose>46552</blessLose>
+		<blessExp>20</blessExp>
+		<needMoney>168</needMoney>
+	</row>
+	<row>
+		<blessLv>3</blessLv>
+		<blessWin>46553</blessWin>
+		<blessLose>46554</blessLose>
+		<blessExp>100</blessExp>
+		<needMoney>688</needMoney>
+	</row>
+</data>

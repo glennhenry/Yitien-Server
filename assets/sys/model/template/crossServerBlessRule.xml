@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<blessLv>1</blessLv>
+		<blessWin>2000</blessWin>
+		<blessLose>2000</blessLose>
+		<blessExp>2000</blessExp>
+		<needMoney>2000</needMoney>
+	</row>
+	<row>
+		<blessLv>1</blessLv>
+		<blessWin>2000</blessWin>
+		<blessLose>2000</blessLose>
+		<blessExp>2000</blessExp>
+		<needMoney>2000</needMoney>
+	</row>
+</data>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KuPao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<prop>
+		<times>1</times>
+		<price>0</price>
+	</prop>
+	<prop>
+		<times>2</times>
+		<price>1</price>
+	</prop>
+	<prop>
+		<times>3</times>
+		<price>2</price>
+	</prop>
+	<prop>
+		<times>4</times>
+		<price>3</price>
+	</prop>
+	<prop>
+		<times>5</times>
+		<price>4</price>
+	</prop>
+	<prop>
+		<times>6</times>
+		<price>5</price>
+	</prop>
+</KuPao>

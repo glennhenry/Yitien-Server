@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ShengBinActiveAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>40</condition>
+		<tool>1_44749_3</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<condition>180</condition>
+		<tool>1_44749_12</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<condition>500</condition>
+		<tool>1_44749_36</tool>
+	</Row>
+</ShengBinActiveAward>

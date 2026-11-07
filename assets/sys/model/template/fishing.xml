@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>96001</id>
+		<name>yes</name>
+		<gx>0</gx>
+		<jltype>0</jltype>
+		<jl>2</jl>
+		<exp>2</exp>
+		<expQT>2</expQT>
+		<prob>2</prob>
+	</Row>
+	<Row>
+		<id>96001</id>
+		<name>yes</name>
+		<gx>0</gx>
+		<jltype>0</jltype>
+		<jl>2</jl>
+		<exp>2</exp>
+		<expQT>2</expQT>
+		<prob>2</prob>
+	</Row>
+</equipment>	

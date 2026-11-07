@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 称号 -->
+<title xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<level>1</level>
+		<name>970</name> 
+		<color>970</color> 
+		<yueli>100</yueli>  
+		<effect>100</effect>  
+	</Row>  
+	<Row> 
+		<level>1</level>
+		<name>970</name> 
+		<color>970</color> 
+		<yueli>100</yueli>  
+		<effect>100</effect>  
+	</Row>  
+</title>	

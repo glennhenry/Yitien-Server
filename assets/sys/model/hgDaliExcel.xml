@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hgDaliExcel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<hgid>1</hgid>
+		<level>20</level>
+		<goods>1_46221_3,1_41002_1</goods>
+	</Row>
+	<Row>
+		<hgid>2</hgid>
+		<level>30</level>
+		<goods>1_44520_1,1_46254_2,1_46568_1</goods>
+	</Row>
+	<Row>
+		<hgid>3</hgid>
+		<level>40</level>
+		<goods>1_44520_2,1_46255_1,1_43062_2,1_46201_6</goods>
+	</Row>
+	<Row>
+		<hgid>4</hgid>
+		<level>50</level>
+		<goods>1_44520_3,1_46255_2,1_43061_1,1_46201_10,2_96528_1</goods>
+	</Row>
+	<Row>
+		<hgid>5</hgid>
+		<level>60</level>
+		<goods>1_44520_5,1_46255_2,1_43061_2,1_46201_20,1_46412_2,2_96538_1</goods>
+	</Row>
+</hgDaliExcel>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 宝石增益 -->
+<baoshiZY xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row> 
+		<lv>1</lv>
+		<exp>970</exp> 
+		<value>970</value>  
+	</Row>   
+	<Row> 
+		<lv>1</lv>
+		<exp>970</exp> 
+		<value>970</value>  
+	</Row> 
+</baoshiZY>	

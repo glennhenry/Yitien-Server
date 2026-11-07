@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MountainStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!-- 山庄种子 -->
+	<Row>
+		<seedId>44101</seedId>
+		<seedName>1级大豆</seedName>
+		<proArea>1</proArea>
+		<seedType>1</seedType>
+		<seedLevel>30</seedLevel>
+		<sortNum>0</sortNum>
+		<saleType>18</saleType>
+		<salePrice>100</salePrice>
+		<fruit>59001_90,59002_6,59003_3,59004_1</fruit>
+		<grawnTime>3600</grawnTime>
+		<dayLimit>0</dayLimit>
+	</Row>
+	<Row>
+		<seedId>44101</seedId>
+		<seedName>1级大豆</seedName>
+		<proArea>1</proArea>
+		<seedType>1</seedType>
+		<seedLevel>30</seedLevel>
+		<sortNum>0</sortNum>
+		<saleType>18</saleType>
+		<salePrice>100</salePrice>
+		<fruit>59001_90,59002_6,59003_3,59004_1</fruit>
+		<grawnTime>3600</grawnTime>
+		<dayLimit>0</dayLimit>
+	</Row>
+</MountainStore>

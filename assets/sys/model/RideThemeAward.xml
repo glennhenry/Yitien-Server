@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RideThemeAward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<condition>70</condition>
+		<tool>1_44529_2,1_44529_2,1_44529_2</tool>
+	</Row>
+	<Row>
+		<id>2</id>
+		<condition>200</condition>
+		<tool>1_44529_8,1_44529_8,1_44529_8</tool>
+	</Row>
+	<Row>
+		<id>3</id>
+		<condition>800</condition>
+		<tool>1_44529_35,1_44529_35,1_44529_35</tool>
+	</Row>
+</RideThemeAward>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<level>51001</level>
+		<exp>小溪</exp>
+	</row>
+	<row>
+		<level>51001</level>
+		<exp>小溪</exp>
+	</row>
+</NPC>

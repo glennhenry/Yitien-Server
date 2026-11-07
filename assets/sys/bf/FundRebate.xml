@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FundRebate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<day>0</day>
+		<Rebate1>200</Rebate1>
+		<Rebate2>1000</Rebate2>
+		<Rebate3>3500</Rebate3>
+	</Row>
+	<Row>
+		<day>1</day>
+		<Rebate1>50</Rebate1>
+		<Rebate2>300</Rebate2>
+		<Rebate3>1000</Rebate3>
+	</Row>
+	<Row>
+		<day>2</day>
+		<Rebate1>75</Rebate1>
+		<Rebate2>400</Rebate2>
+		<Rebate3>1200</Rebate3>
+	</Row>
+	<Row>
+		<day>4</day>
+		<Rebate1>100</Rebate1>
+		<Rebate2>500</Rebate2>
+		<Rebate3>1500</Rebate3>
+	</Row>
+	<Row>
+		<day>7</day>
+		<Rebate1>175</Rebate1>
+		<Rebate2>800</Rebate2>
+		<Rebate3>2800</Rebate3>
+	</Row>
+</FundRebate>

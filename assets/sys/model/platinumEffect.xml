@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FundRebate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<day>2</day>
+		<effect1>5_20_50</effect1>
+		<effect2>10_40_100</effect2>
+		<effect3>15_60_150</effect3>
+	</Row>
+	<Row>
+		<day>3</day>
+		<effect1>5_20_50</effect1>
+		<effect2>10_40_100</effect2>
+		<effect3>15_60_150</effect3>
+	</Row>
+	<Row>
+		<day>4</day>
+		<effect1>5_20_50</effect1>
+		<effect2>10_40_100</effect2>
+		<effect3>15_60_150</effect3>
+	</Row>
+	<Row>
+		<day>5</day>
+		<effect1>5_20_50</effect1>
+		<effect2>10_40_100</effect2>
+		<effect3>15_60_150</effect3>
+	</Row>
+	<Row>
+		<day>7</day>
+		<effect1>5_20_50</effect1>
+		<effect2>10_40_100</effect2>
+		<effect3>15_60_150</effect3>
+	</Row>
+</FundRebate>

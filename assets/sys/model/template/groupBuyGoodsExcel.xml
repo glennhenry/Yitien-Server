@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupBuyGoodsExcel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<goodID>1</goodID><!-- 物品ID -->
+		<goodType>43001</goodType><!--  购买类型	* 
+		0：元宝低档(抽1个)	 * 
+		1：元宝中档（抽1个）	 * 
+		2：元宝高档（抽1个）	 * 
+		3：礼券（抽1个） */ -->
+		<oldPrice>1</oldPrice><!-- 原价 -->
+		<newPrice>0</newPrice><!-- 现价-->
+		<limitBuyNum>1</limitBuyNum><!-- 限购个数 -->
+		<probability>30</probability><!-- 出现几率 -->
+		<exp>30</exp><!-- 经验池经验 -->
+	</Row>
+	
+	<Row>
+		<goodID>1</goodID><!-- 物品ID -->
+		<goodType>43001</goodType><!-- 购买类型 -->
+		<oldPrice>1</oldPrice><!-- 原价 -->
+		<newPrice>0</newPrice><!-- 现价-->
+		<limitBuyNum>1</limitBuyNum><!-- 限购个数 -->
+		<probability>30</probability><!-- 出现几率 -->
+		<exp>30</exp><!-- 经验池经验 -->
+	</Row>
+</groupBuyGoodsExcel>

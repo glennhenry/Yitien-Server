@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<commonTaskExp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<kunlun>200</kunlun>
+		<fish>200</fish>
+		<bangbattle>200</bangbattle>
+		<liqi1>200</liqi1>
+		<liqi2>200</liqi2>
+		<liqi3>200</liqi3>
+		<wulin>200</wulin>
+		<biao1>200</biao1>
+		<biao2>200</biao2>
+		<biao3>200</biao3>
+		<partyPlant>200</partyPlant>
+		<partyExp>200</partyExp>
+	</Row>
+	<Row>
+		<level>1</level>
+		<kunlun>200</kunlun>
+		<fish>200</fish>
+		<bangbattle>200</bangbattle>
+		<liqi1>200</liqi1>
+		<liqi2>200</liqi2>
+		<liqi3>200</liqi3>
+		<wulin>200</wulin>
+		<biao1>200</biao1>
+		<biao2>200</biao2>
+		<biao3>200</biao3>
+		<partyPlant>200</partyPlant>		
+		<partyExp>200</partyExp>
+	</Row>
+</commonTaskExp>	

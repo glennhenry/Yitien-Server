@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<MAXHP>1</MAXHP>
+		<MAXMP>1</MAXMP>
+		<ATT>1</ATT>
+		<DEF>1</DEF>
+		<AR>1</AR>
+		<DOD>1</DOD>
+		<CRIT>1</CRIT>
+		<REPELV>1</REPELV>
+		<ATTSPEED>1</ATTSPEED>
+	</row>
+	<row>
+		<MAXHP>1</MAXHP>
+		<MAXMP>1</MAXMP> 
+		<ATT>1</ATT>
+		<DEF>1</DEF>
+		<AR>1</AR>
+		<DOD>1</DOD>
+		<CRIT>1</CRIT>
+		<REPELV>1</REPELV>
+		<ATTSPEED>1</ATTSPEED>
+	</row>
+</Data>

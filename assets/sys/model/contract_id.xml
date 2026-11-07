@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<contract_id>100621282T2201308010001,100621282T320140113102626,100621282T320140117163142</contract_id>
+		<lev>30</lev>
+		<yaoqing>1</yaoqing><!-- 0.需要邀请才能完成推广任务 1.不需要 -->
+		<tan_shouchongui>1</tan_shouchongui><!-- 0.不需弹首冲面板 1.要弹 -->
+		<tan_xiaofeiui>1</tan_xiaofeiui><!-- 0.不需弹活动信息面板 1.要弹 -->
+	</Row>
+</Events>

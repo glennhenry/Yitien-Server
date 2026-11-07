@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<guessLanternRiddlesNPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<x>2336</x>
+		<y>3200</y>
+	</Row>
+	<Row>
+		<id>2</id>
+		<x>4990</x>
+		<y>3060</y>
+	</Row>
+	<Row>
+		<id>3</id>
+		<x>4788</x>
+		<y>1917</y>
+	</Row>
+	<Row>
+		<id>4</id>
+		<x>3214</x>
+		<y>2015</y>
+	</Row>
+</guessLanternRiddlesNPC>

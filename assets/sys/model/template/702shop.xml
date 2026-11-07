@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sys_plaza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<goodId>702301</goodId>
+		<shopId>52302</shopId>
+		<shopName>药品店</shopName>
+		<npcModel>52302</npcModel>
+		<label>0</label>
+		<wpid>42001</wpid>
+		<type>1</type>
+		<sellNum>999999</sellNum>
+		<isBind>0</isBind>
+		<price>10</price>
+		<isMoney>18</isMoney>
+		<onTime>22:00:00</onTime>
+		<offTime>86400</offTime>
+		<startTime>2011-11-11</startTime>
+		<endTime>2111-11-11</endTime>
+	</row>
+	<row>
+		<goodId>702301</goodId>
+		<shopId>52302</shopId>
+		<shopName>药品店</shopName>
+		<npcModel>52302</npcModel>
+		<label>0</label>
+		<wpid>42001</wpid>
+		<type>1</type>
+		<sellNum>999999</sellNum>
+		<isBind>0</isBind>
+		<price>10</price>
+		<isMoney>18</isMoney>
+		<onTime>22:00:00</onTime>
+		<offTime>86400</offTime>
+		<startTime>2011-11-11</startTime>
+		<endTime>2111-11-11</endTime>
+	</row>
+</sys_plaza>

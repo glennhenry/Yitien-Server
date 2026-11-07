@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><activitys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- 砸蛋 -->
+	<activity>
+		<id>1</id>
+		<startTime>2014-05-15</startTime>
+		<endTime>2014-05-21</endTime>
+	</activity>
+	<activity>
+		<id>2</id>
+		<startTime>2013-05-03</startTime>
+		<endTime>2013-05-09</endTime>
+	</activity>
+	<activity>
+		<id>3</id>
+		<startTime>2012-12-26</startTime>
+		<endTime>2013-01-26</endTime>
+	</activity>
+	<activity>
+		<id>4</id>
+		<startTime>2013-01-01</startTime>
+		<endTime>2014-12-26</endTime>
+	</activity>
+	<activity>
+		<id>5</id>
+		<startTime>2013-02-04</startTime>
+		<endTime>2013-02-10</endTime>
+	</activity>
+	<activity>
+		<id>6</id>
+		<startTime>2013-02-11</startTime>
+		<endTime>2013-02-17</endTime>
+	</activity>
+	<activity>
+		<id>7</id>
+		<startTime>2013-02-18</startTime>
+		<endTime>2013-02-24</endTime>
+	</activity>
+	<!-- 老玩家回归   -->
+	<activity>
+		<id>8</id>
+		<startTime>2014-02-14</startTime>
+		<endTime>2014-02-28</endTime>
+	</activity>
+</activitys>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cwczzt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<grow>5000</grow>
+		<award>1_46314_2_1</award>
+	</Row>
+	<Row>
+		<id>2</id>
+		<grow>20000</grow>
+		<award>1_46315_3_1</award>
+	</Row>
+	<Row>
+		<id>3</id>
+		<grow>46000</grow>
+		<award>1_46315_6_1</award>
+	</Row>
+</cwczzt>

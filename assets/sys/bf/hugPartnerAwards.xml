@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hugPartnerAwards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<type>1</type>
+		<awards>1_46439_99,1_46255_1</awards>
+		<level>1</level>
+	</Row>
+	<Row>
+		<id>2</id>
+		<type>2_3</type>
+		<awards>1_46439_60,1_46254_1</awards>
+		<level>2</level>
+	</Row>
+	<Row>
+		<id>3</id>
+		<type>4_5</type>
+		<awards>1_46439_45,1_46254_1</awards>
+		<level>4</level>
+	</Row>
+	<Row>
+		<id>4</id>
+		<type>6_10</type>
+		<awards>1_46439_30,1_46253_1</awards>
+		<level>6</level>
+	</Row>
+	<Row>
+		<id>5</id>
+		<type>0</type>
+		<awards>1_46439_7</awards>
+		<level>0</level>
+	</Row>
+</hugPartnerAwards>

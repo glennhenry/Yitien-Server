@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kjlb xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<heroType>1</heroType>
+		<awards>1_46201_2,1_46061_2,1_46409_2,1_46221_2</awards>
+	</Row>
+	<Row>
+		<heroType>2</heroType>
+		<awards>1_46201_5,1_46061_5,1_46409_5,1_46221_5</awards>
+	</Row>
+</kjlb>

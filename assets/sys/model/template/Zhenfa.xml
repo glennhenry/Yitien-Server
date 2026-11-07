@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Zhenfa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<type>1</type>
+		<zfLevel>1</zfLevel>
+		<name>天使</name>
+		<des>AAAAAA</des>
+		<des1>AAAAAA</des1>
+		<location>11,12,13,21,22,23</location>
+		<effectType>1</effectType>
+		<effectValue>100</effectValue>
+		<pic>41001</pic>
+		<nextZF>2</nextZF>
+	</Row>
+	<Row>
+		<id>1</id>
+		<type>1</type>
+		<zfLevel>1</zfLevel>
+		<name>天使</name>
+		<des>AAAAAA</des>
+		<des1>AAAAAA</des1>
+		<location>11,12,13,21,22,23</location>
+		<effectType>1</effectType>
+		<effectValue>100</effectValue>
+		<pic>41001</pic>
+		<nextZF>2</nextZF>
+	</Row>
+</Zhenfa>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<market xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>1</id>
+		<exchangeMaterial>1_45611_1,1_45612_1,1_45613_1,1_45614_1,1_45615_1,1_45616_1,1_45617_1</exchangeMaterial>
+		<rewards>1_45621_1</rewards>
+		<exchangeLimit>5</exchangeLimit>
+	</row>
+	<row>
+		<id>2</id>
+		<exchangeMaterial>1_45611_1,1_45612_1,1_45613_1,1_45614_1,1_45615_1,1_45616_1,1_45617_1</exchangeMaterial>
+		<rewards>1_46281_1</rewards>
+		<exchangeLimit>12</exchangeLimit>
+	</row>
+	<row>
+		<id>3</id>
+		<exchangeMaterial>1_45613_1,1_45614_1,1_45615_1,1_45616_1,1_45617_1</exchangeMaterial>
+		<rewards>1_44520_2</rewards>
+		<exchangeLimit>10</exchangeLimit>
+	</row>
+	<row>
+		<id>4</id>
+		<exchangeMaterial>1_45615_1,1_45616_1,1_45617_1</exchangeMaterial>
+		<rewards>1_46255_1</rewards>
+		<exchangeLimit>10</exchangeLimit>
+	</row>
+	<row>
+		<id>5</id>
+		<exchangeMaterial>1_45615_1,1_45616_1,1_45617_1</exchangeMaterial>
+		<rewards>1_46887_1</rewards>
+		<exchangeLimit>10</exchangeLimit>
+	</row>
+</market>

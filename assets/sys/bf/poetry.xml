@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<qtype xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<name>千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪</name>
+		<option>唐代李白江雪_唐代杜甫江雪_北宋王安石江雪_唐代柳宗元江雪</option>
+		<answer>4</answer>
+	</Row>
+	<Row>
+		<id>2</id>
+		<name>日暮长江里，相邀归渡头。落花如有意，来去逐轻舟。</name>
+		<option>唐代王之涣江南曲_唐代储光羲江南曲_唐代李白江南曲_唐代杜甫江南曲</option>
+		<answer>2</answer>
+	</Row>
+	<Row>
+		<id>3</id>
+		<name>墙角数枝梅，凌寒独自开。遥知不是雪，为有暗香来。</name>
+		<option>唐代孟浩然梅花_唐代李白梅花_唐代杜甫梅花_北宋王安石梅花</option>
+		<answer>4</answer>
+	</Row>
+	<Row>
+		<id>4</id>
+		<name>白日依山尽，黄河入海流。欲穷千里目，更上一层楼。</name>
+		<option>唐代孟浩然登鹤雀楼_唐代王之涣登鹤雀楼_唐代李白登鹤雀楼_唐代杜甫登鹤雀楼</option>
+		<answer>2</answer>
+	</Row>
+</qtype>

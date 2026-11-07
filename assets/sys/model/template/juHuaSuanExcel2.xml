@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JuHuaSuan2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<id>1</id>
+		<awards>1_44876_1</awards>
+		<rewardDays>7</rewardDays>
+		<price>200</price>
+		<giftName>宝石包</giftName>
+	</row>
+	<row>
+		<id>2</id>
+		<awards>1_44876_1</awards>
+		<rewardDays>7</rewardDays>
+		<price>200</price>
+		<giftName>宝石包</giftName>
+	</row>
+</JuHuaSuan2>

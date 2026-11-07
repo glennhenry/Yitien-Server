@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Award3366 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<level3366>0</level3366>
+		<award>1_46061_2</award>
+	</row>
+	<row>
+		<level3366>1</level3366>
+		<award>1_46061_2</award>
+	</row>
+	<row>
+		<level3366>2</level3366>
+		<award>1_46201_1</award>
+	</row>
+	<row>
+		<level3366>3</level3366>
+		<award>1_46201_1,1_46061_1</award>
+	</row>
+	<row>
+		<level3366>4</level3366>
+		<award>1_46201_1,1_46061_2</award>
+	</row>
+	<row>
+		<level3366>5</level3366>
+		<award>1_46201_2,1_46061_2</award>
+	</row>
+	<row>
+		<level3366>6</level3366>
+		<award>1_46201_2,1_46061_3</award>
+	</row>
+</Award3366>

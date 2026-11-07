@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<petEquipTaoZhuang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<level>1</level>
+		<time>10</time>
+		<awards>1_44684_2</awards>
+	</Row>
+	<Row>
+		<level>2</level>
+		<time>30</time>
+		<awards>1_44684_6</awards>
+	</Row>
+	<Row>
+		<level>3</level>
+		<time>100</time>
+		<awards>1_44684_12</awards>
+	</Row>
+</petEquipTaoZhuang>

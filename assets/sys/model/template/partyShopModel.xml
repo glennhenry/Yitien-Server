@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<goodId>705101</goodId>
+		<shopName>商店</shopName>
+		<Level>1</Level>
+		<npcModel>0</npcModel>
+		<label>0</label>
+		<wpid>41001</wpid>
+		<type>1</type>
+		<sellNum>5</sellNum>
+		<isBind>1</isBind>
+		<price>200</price>
+		<moneyType>27</moneyType>
+		<startTime>24</startTime>
+		<lastTime>86400</lastTime>
+		<start>2011-11-11</start>
+		<end>2111-11-11</end>
+	</Row>
+	<Row>
+		<goodId>705102</goodId>
+		<shopName>商店</shopName>
+		<Level>1</Level>
+		<npcModel>0</npcModel>
+		<label>0</label>
+		<wpid>41021</wpid>
+		<type>1</type>
+		<sellNum>5</sellNum>
+		<isBind>1</isBind>
+		<price>200</price>
+		<moneyType>27</moneyType>
+		<startTime>24</startTime>
+		<lastTime>86400</lastTime>
+		<start>2011-11-11</start>
+		<end>2111-11-11</end>
+	</Row>
+</pet>

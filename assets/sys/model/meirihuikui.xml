@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<everydayFeedbackExcel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<index>1</index>
+		<type>1</type>
+		<rewardNum>188</rewardNum>
+		<tools>1_46253_1,1_43061_1,1_45596_2</tools>
+	</Row>
+	<Row>
+		<index>2</index>
+		<type>2</type>
+		<rewardNum>288</rewardNum>
+		<tools>1_46255_1,1_46063_1,1_45594_3</tools>
+	</Row>
+	<Row>
+		<index>3</index>
+		<type>2</type>
+		<rewardNum>1888</rewardNum>
+		<tools>1_44520_3,1_46413_2,1_45595_1</tools>
+	</Row>
+</everydayFeedbackExcel>

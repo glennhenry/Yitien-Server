@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<IntegralExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<toolID>1_46201_2</toolID>
+		<integral>2</integral>
+	</Row>
+	<Row>
+		<id>2</id>
+		<toolID>1_46201_3</toolID>
+		<integral>3</integral>
+	</Row>
+</IntegralExchange>	

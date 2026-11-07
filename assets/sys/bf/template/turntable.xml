@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<turntable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<orders>72</orders>
+		<numb>1</numb>
+		<goodID>264</goodID>
+		<goodNum>72</goodNum>
+		<goodType>72</goodType>
+		<probabiltys>72</probabiltys>
+		<broadcasts>72</broadcasts>
+	</Row>
+	<Row>
+		<orders>72</orders>
+		<numb>1</numb>
+		<goodID>264</goodID>
+		<goodNum>72</goodNum>
+		<goodType>72</goodType>
+		<probabiltys>72</probabiltys>
+		<broadcasts>72</broadcasts>
+	</Row>
+</turntable>	

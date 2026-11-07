@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tool xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<type>1</type>
+		<otherType>1</otherType>
+		<title>仙（初级）</title>
+		<option>9</option>
+	</Row>
+	<Row>
+		<id>1</id>
+		<type>1</type>
+		<otherType>1</otherType>
+		<title>仙（初级）</title>
+		<option>9</option>
+	</Row>
+</tool>

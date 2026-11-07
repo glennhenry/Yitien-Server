@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<eid></eid>
+		<sex></sex>
+		<tid></tid>
+		<picture></picture>
+		<type></type>
+		<effect></effect>
+	</row>
+	<row>
+		<eid></eid>
+		<sex></sex>
+		<tid></tid>
+		<picture></picture>
+		<type></type>
+		<effect></effect>
+	</row>
+</data>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<petEquipTaoZhuang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<num>4</num>
+		<taoZhuangValue>2_11_30,4_2_120</taoZhuangValue>
+		<taozhuangName>强化20级套装属性</taozhuangName>
+		<taoZhuangLevel>1</taoZhuangLevel>
+	</Row> 
+	<Row>
+		<id>1</id>
+		<num>4</num>
+		<taoZhuangValue>2_11_30,4_2_120</taoZhuangValue>
+		<taozhuangName>强化20级套装属性</taozhuangName>
+		<taoZhuangLevel>1</taoZhuangLevel>
+	</Row> 
+</petEquipTaoZhuang>

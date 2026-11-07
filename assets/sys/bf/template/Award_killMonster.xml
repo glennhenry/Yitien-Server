@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Award_killMonster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<rank>排名</rank>
+		<prestige>奖励声望</prestige>
+		<toolId_num>奖励道具_数量</toolId_num>
+		<band>是否绑定 </band> 
+	</Row>	 
+	<Row>
+		<rank>排名</rank>
+		<prestige>奖励声望</prestige>
+		<toolId_num>奖励道具_数量</toolId_num>
+		<band>是否绑定 </band> 
+	</Row>	 
+</Award_killMonster>	

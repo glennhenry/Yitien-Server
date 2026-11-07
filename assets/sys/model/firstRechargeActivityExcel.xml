@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<firstRecharge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<id>1</id>
+		<needNum>88</needNum>
+		<reward>2_91551_1,1_46201_1</reward>
+	</Row>
+	<Row>
+		<id>2</id>
+		<needNum>188</needNum>
+		<reward>2_92551_1,1_46254_1,1_46201_3</reward>
+	</Row>
+	<Row>
+		<id>3</id>
+		<needNum>288</needNum>
+		<reward>2_93551_1,1_46011_5,1_46254_2,1_46201_5</reward>
+	</Row>
+	<Row>
+		<id>4</id>
+		<needNum>388</needNum>
+		<reward>2_94551_1,1_46011_10,1_46071_5,1_46254_3,1_46201_10</reward>
+	</Row>
+	<Row>
+		<id>5</id>
+		<needNum>488</needNum>
+		<reward>2_95551_1,2_96551_1,1_46570_2,1_46255_1,1_46201_20</reward>
+	</Row>
+</firstRecharge>
