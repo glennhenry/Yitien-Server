@@ -23,6 +23,7 @@ fun Route.fileRoutes() {
         call.respondFile(File("assets/site/index.html"))
     }
     staticFiles("site", File("assets/site"))
+    staticFiles("game", File("assets/game"))
 
     val docsDir = File("docs_build")
     if (File(docsDir, "index.html").exists()) {
