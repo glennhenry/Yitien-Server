@@ -6,6 +6,7 @@ import encore.network.fanchant.guide.FanchantGuide
 import encore.utils.startsWithString
 import game.character.AskCharlist
 import game.auth.CGAskLogin
+import game.map.EnterScene
 import game.others.Heartbeat
 import java.io.DataInputStream
 
@@ -48,6 +49,7 @@ class YitienFanchantGuide : FanchantGuide<Pair<Int, ByteArray>> {
             YitienMessageType.CG_ASK_LOGIN -> CGAskLogin()
             YitienMessageType.CG_ASK_CHARLIST -> AskCharlist()
             YitienMessageType.CG_HEARTBEAT -> Heartbeat()
+            YitienMessageType.CG_ENTER_SCENE -> EnterScene()
             else -> FallbackYitienFanchant(messageType)
         }
         val input = DataInputStream(bytes.inputStream())
