@@ -14,11 +14,27 @@ Made with [Encore](https://github.com/glennhenry/Encore).
 
 # Progress
 
-Currently, we are still stuck in the loading screen. We have successfully connected the game to our socket server and received a message, and we already discovered the game's protocol, but have not yet to respond to the messages.  
+We have successfully entered the game!
 
-<img src="progress.png" alt="progress" width=300 />
+However, there are still many data issues. As seen in the following video, we could spawn the player at some map, but there is almost no contents in the game.
 
-<img src="progress2.png" alt="progress" width=300 />
+Not to mention the fully untranslated game.
+
+..video
+
+# Note
+
+This project is discontinued. The server is basically not working, and is somewhat only at 2% progress approximately.
+
+The next step would be:
+
+1. Continuing the server code
+2. Translating the texts into English
+3. Remaking assets into English
+
+The game assets is available at `assets/game` and `assets/sys`, while `assets/OriginalServer.zip` is a ZIP archive of the original server that you can use as a reference.
+
+The server is made in Java, but the archive does not contain Java source code, but rather a compiled `.class` files. If you want to run the server, you need some old version of JDK, MySQL, and Apache.
 
 # Server Manual
 
