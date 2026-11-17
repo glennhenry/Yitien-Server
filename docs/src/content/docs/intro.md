@@ -147,3 +147,25 @@ if(socket.connected)
 ```
 
 _The YiTian.swf version does not have TapperEvent._
+
+#### Message Convention
+
+The server sends back response in similar structure but without obfuscating the opcode.
+
+For XML based response, it must starts the XML declaration: `<?xml`.
+
+Upon receiving the socket response, the client dispatch the message into the appropriate handler. Each handler is registered on their respective message class.
+
+For example, `LoginGCMessage` registers the opcode `GC_ASK_LOGIN`. When the socket receives `GC_ASK_LOGIN` opcode, it will be routed to `LoginGCMessage`. The handling inside involves reading a result integer, then calling the static function of `LoginHandler` which does nothing but sending another request of `CG_ASK_CHARLIST`.
+
+The pattern CG and GC means client to game (server) and game to client, respectively. In other word, CG messages are sent by client to the server.
+
+Each CG message class contains code that packages the message in binary. Sending message is typically done by calling static function of the message class with payload encoded in the parameter.
+
+:::tip
+Having payload encoded in the parameter is a fortunate outcome, because parameter generally always have its variable name and type decompiled clearly.
+:::
+
+Each GC message class associates every related GC messages opcode with a function. The function contains code that reads the binary package, assembling the server's response into data that the client uses.
+
+In the case of `LoginGCMessage` of `GC_ASK_LOGIN` opcode, the binary reading logic is nothing but reading a single data of result integer. Then, static function `LoginHandler.GC_ASK_LOGIN` is called.

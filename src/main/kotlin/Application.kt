@@ -28,6 +28,7 @@ import game.core.mongo.RuntimeMongoCollections
 import game.core.routes.fileRoutes
 import game.socket.AskLoginHandler
 import game.socket.YitienFancantGuide
+import game.socket.YitienFanchantGuide
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
@@ -213,7 +214,7 @@ fun GameStageInitContext.lifecycleHooks() {
 fun GameStageInitContext.fanchantGuides() {
     // register fanchant guides...
 
-    guide(YitienFancantGuide())
+    guide(YitienFanchantGuide())
 }
 
 fun GameStageInitContext.handlers(serverContext: ServerContext) {
