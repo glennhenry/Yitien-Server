@@ -28,7 +28,7 @@ fun createMessage(messageType: Int, outgoing: OutgoingMessage): ByteArray {
     val output = DataOutputStream(stream)
 
     // total length
-    output.writeInt(dataSection.size + 4)
+    output.writeInt(dataSection.size + 8)
 
     // messageType
     output.writeInt(messageType)

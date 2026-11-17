@@ -146,13 +146,33 @@ if(socket.connected)
 }
 ```
 
+So the structure is:
+
+```
+[int 4 bytes] length of payload + 4
+[int 4 bytes] cmd
+[remaining bytes] body
+```
+
 _The YiTian.swf version does not have TapperEvent._
 
-#### Message Convention
+#### Server Response
 
-The server sends back response in similar structure but without obfuscating the opcode.
+The server sends back response in similar structure but without obfuscating the opcode. Additionally, the integer length includes the length of itself. Basically, the structure is:
+
+```
+[int 4 bytes] length of payload + 8
+[int 4 bytes] cmd
+[remaining bytes] body
+```
+
+:::note
+Actually, the structure is same as client's request. The difference exists because we made it. The original was `length of payload + 12` and 12 includes `answer`, `answer2`, and the length itself. However, we changed it into `length of payload + 4`, where 4 is the bytes size of cmd and does not include the length itself.
+:::
 
 For XML based response, it must starts the XML declaration: `<?xml`.
+
+#### Message Convention
 
 Upon receiving the socket response, the client dispatch the message into the appropriate handler. Each handler is registered on their respective message class.
 
