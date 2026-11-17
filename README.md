@@ -14,9 +14,11 @@ Made with [Encore](https://github.com/glennhenry/Encore).
 
 # Progress
 
-Currently, we are still stuck in the loading screen. We have successfully connected the game to our socket server and received a message, but we still couldn't figure out the protocol.
+Currently, we are still stuck in the loading screen. We have successfully connected the game to our socket server and received a message, and we already discovered the game's protocol, but have not yet to respond to the messages.  
 
 <img src="progress.png" alt="progress" width=300 />
+
+<img src="progress2.png" alt="progress" width=300 />
 
 # Server Manual
 
