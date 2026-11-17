@@ -4,6 +4,7 @@ import encore.network.fanchant.Fanchant
 import encore.network.fanchant.guide.DecodeResult
 import encore.network.fanchant.guide.FanchantGuide
 import encore.utils.startsWithString
+import game.auth.AskCharlist
 import game.auth.CGAskLogin
 import java.io.DataInputStream
 
@@ -44,6 +45,7 @@ class YitienFanchantGuide : FanchantGuide<Pair<Int, ByteArray>> {
         // add more message entries here...
         val fanchantClass: YitienFanchant = when (messageType) {
             YitienMessageType.CG_ASK_LOGIN -> CGAskLogin()
+            YitienMessageType.CG_ASK_CHARLIST -> AskCharlist()
             else -> FallbackYitienFanchant(messageType)
         }
         val input = DataInputStream(bytes.inputStream())

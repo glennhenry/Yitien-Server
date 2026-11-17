@@ -1,0 +1,28 @@
+package game.auth
+
+import encore.network.handler.FanchantHandler
+import encore.network.handler.HandlerContext
+import game.character.Hero
+import game.socket.YitienMessageType
+import game.socket.createMessage
+
+class AskCharlistHandler : FanchantHandler<AskCharlist> {
+    override val fanchantType: String = YitienMessageType.CG_ASK_CHARLIST.toString()
+
+    override suspend fun handle(ctx: HandlerContext<AskCharlist>) = with(ctx) {
+        connection.write(
+            createMessage(
+                YitienMessageType.GC_ASK_CHARLIST,
+                AskCharlistMessage(true, 100U, listOf(
+                    Hero(
+                        heroId = 123,
+                        heroName = "Yitien",
+                        short1 = 1,
+                        short2 = 2,
+                        short3 = 3
+                    )
+                ))
+            )
+        )
+    }
+}
