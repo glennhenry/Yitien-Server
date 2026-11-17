@@ -1,6 +1,5 @@
-package game.auth
+package game.character
 
-import game.character.Hero
 import game.socket.OutgoingMessage
 import java.io.DataOutputStream
 

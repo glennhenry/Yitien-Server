@@ -1,8 +1,7 @@
-package game.auth
+package game.character
 
 import encore.network.handler.FanchantHandler
 import encore.network.handler.HandlerContext
-import game.character.Hero
 import game.socket.YitienMessageType
 import game.socket.createMessage
 
@@ -17,9 +16,10 @@ class AskCharlistHandler : FanchantHandler<AskCharlist> {
                     Hero(
                         heroId = 123,
                         heroName = "Yitien",
-                        short1 = 1,
-                        short2 = 2,
-                        short3 = 3
+                        // unknown purposes
+                        short1 = 12001,
+                        short2 = 12002,
+                        short3 = 12003
                     )
                 ))
             )

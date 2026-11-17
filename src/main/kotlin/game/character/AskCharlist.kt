@@ -1,4 +1,4 @@
-package game.auth
+package game.character
 
 import game.socket.YitienFanchant
 import game.socket.YitienMessageType

@@ -22,7 +22,7 @@ import encore.time.source.SystemTimeSource
 import encore.venue.Venue
 import game.GameIdentity
 import game.Globals
-import game.auth.AskCharlistHandler
+import game.character.AskCharlistHandler
 import game.core.context.RealContextFactory
 import game.core.context.ServerContext
 import game.core.mongo.RuntimeMongoCollections

@@ -4,7 +4,7 @@ import encore.network.fanchant.Fanchant
 import encore.network.fanchant.guide.DecodeResult
 import encore.network.fanchant.guide.FanchantGuide
 import encore.utils.startsWithString
-import game.auth.AskCharlist
+import game.character.AskCharlist
 import game.auth.CGAskLogin
 import game.others.Heartbeat
 import java.io.DataInputStream
