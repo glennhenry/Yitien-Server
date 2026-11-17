@@ -32,3 +32,118 @@ However, texts embedded in assets like images or SWF is harder.
 
 - For image files, we likely need to edit erase the CN text and replace it with English text with the identical fonts.
 - For SWF, this could be easy because the overall sprite is composed of multiple images. The texts are isolated and therefore erasing it won't affect the rest of the image.
+
+### Debugging
+
+The game has built-in trace and memory viewer tools.
+
+- Press Alt + Shift + Ctrl + S to see Flash `trace()` messages.
+- Press Alt + Ctrl + Backspace to see memory and frame rates.
+
+### Networking
+
+Yitien socket protocol associates each message with a cmd (short for command, an integer). The payload itself is simple binary packing that is listed on each message's class.
+
+The cmd undergo binary manipulation with some key supplied from the flashvars. Allegedly, this is used for obfuscation, that is making opcode less obvious.
+
+Eventually, the binary process produces 2 result of `answer` and `answer2`. Both are integer which combines the opcode, flashvars' key, and some random number. Though, the payload itself is transported plainly.
+
+The structure is basically:
+
+```
+[int 4 bytes] length of payload + 12
+[int 4 bytes] answer2
+[int 4 bytes] answer
+[remaining bytes] body
+```
+
+#### Removing Obfuscation
+
+It seems like there is no need to keep this obfuscation scheme as it won't enhance security. Additionally, with the client available, anyone can decompile it and create the reverse operation.
+
+:::tips
+The SWF we have is allegedly the non-release version that has trace debug and viewer enabled; so really, just by pressing `Alt + Shift + Ctrl + S` you can see the opcode directly.
+:::
+
+Original code that we removed (both `YiLoader.swf` and `YiTian.swf`):
+
+```as3
+private static function getRamdon() : int
+{
+   _lastRandValue += 1;
+   if(_lastRandValue > 127)
+   {
+      _lastRandValue = 0;
+   }
+   return _lastRandValue;
+}
+
+if(socket.connected)
+{
+   evt = new TapperEvent("客户端发送");
+   evt.param = [cmd,body];
+   Global.stage.dispatchEvent(evt);
+   socket.writeInt(body.length + 12);
+   random = getRamdon();
+   rel = (cmd << 5) + Global.key;
+   i = 0;
+   while(i < 8)
+   {
+      relIt = rel >> 3 * i & 7;
+      randomItem = random >> i & 1;
+      last = (randomItem << 3) + relIt << 4 * i;
+      answer += last;
+      i++;
+   }
+   i = 0;
+   while(i < 5)
+   {
+      cmdIt = cmd >> 3 * i & 7;
+      keyIt = Global.key >> i & 1;
+      ranIt = random >> i & 1;
+      if(Boolean(ranIt))
+      {
+         cmdkeyIt = (keyIt << 3) + cmdIt << 4 * i;
+      }
+      else
+      {
+         cmdkeyIt = (cmdIt << 1) + keyIt << 4 * i;
+      }
+      cmdAndKey += cmdkeyIt;
+      i++;
+   }
+   cmdAndKey += cmd >> 15 << 20;
+   moveKey = random >> 5;
+   moveAbs = 32 - moveKey;
+   answer2 = (cmdAndKey << moveKey) + (random << moveAbs >> moveAbs) + (random >> moveKey << 24 + moveKey);
+   socket.writeInt(answer2);
+   socket.writeInt(answer);
+   if(cmd != 5027 && cmd != 5008)
+   {
+      Utils.print("sendServer",cmd);
+   }
+   socket.writeBytes(body);
+   socket.flush();
+}
+```
+
+The current code:
+
+```as3
+if(socket.connected)
+{
+   evt = new TapperEvent("客户端发送");
+   evt.param = [cmd,body];
+   Global.stage.dispatchEvent(evt);
+   socket.writeInt(body.length + 4);
+   socket.writeInt(cmd);
+   if(cmd != 5027 && cmd != 5008)
+   {
+      Utils.print("sendServer",cmd);
+   }
+   socket.writeBytes(body);
+   socket.flush();
+}
+```
+
+_The YiTian.swf version does not have TapperEvent._

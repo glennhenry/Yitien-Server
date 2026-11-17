@@ -493,70 +493,12 @@ package com.yiTian.manager
          LocalServer.doMessage(cmd,body);
       }
       
-      private static function getRamdon() : int
-      {
-         _lastRandValue += 1;
-         if(_lastRandValue > 127)
-         {
-            _lastRandValue = 0;
-         }
-         return _lastRandValue;
-      }
-      
       private static function sendServer(cmd:int, body:ByteArray) : void
       {
-         var answer:int = 0;
-         var random:int = 0;
-         var rel:int = 0;
-         var i:int = 0;
-         var answer2:int = 0;
-         var cmdAndKey:int = 0;
-         var moveKey:int = 0;
-         var moveAbs:int = 0;
-         var relIt:int = 0;
-         var randomItem:int = 0;
-         var last:int = 0;
-         var cmdIt:int = 0;
-         var keyIt:int = 0;
-         var ranIt:int = 0;
-         var cmdkeyIt:int = 0;
          if(socket.connected)
          {
-            socket.writeInt(body.length + 12);
-            random = getRamdon();
-            rel = (cmd << 5) + Global.key;
-            i = 0;
-            while(i < 8)
-            {
-               relIt = rel >> 3 * i & 7;
-               randomItem = random >> i & 1;
-               last = (randomItem << 3) + relIt << 4 * i;
-               answer += last;
-               i++;
-            }
-            i = 0;
-            while(i < 5)
-            {
-               cmdIt = cmd >> 3 * i & 7;
-               keyIt = Global.key >> i & 1;
-               ranIt = random >> i & 1;
-               if(Boolean(ranIt))
-               {
-                  cmdkeyIt = (keyIt << 3) + cmdIt << 4 * i;
-               }
-               else
-               {
-                  cmdkeyIt = (cmdIt << 1) + keyIt << 4 * i;
-               }
-               cmdAndKey += cmdkeyIt;
-               i++;
-            }
-            cmdAndKey += cmd >> 15 << 20;
-            moveKey = random >> 5;
-            moveAbs = 32 - moveKey;
-            answer2 = (cmdAndKey << moveKey) + (random << moveAbs >> moveAbs) + (random >> moveKey << 24 + moveKey);
-            socket.writeInt(answer2);
-            socket.writeInt(answer);
+            socket.writeInt(body.length + 4);
+            socket.writeInt(cmd);
             if(cmd != 5027 && cmd != 5008)
             {
                Utils.print("sendServer",cmd);
