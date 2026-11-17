@@ -1,4 +1,4 @@
-package game.context
+package game.core.context
 
 import encore.account.AccountRepository
 import encore.account.AccountSubunit

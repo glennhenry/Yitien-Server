@@ -1,4 +1,4 @@
-package game.routes
+package game.core.routes
 
 import encore.route.RouteHandler
 import io.ktor.http.HttpStatusCode

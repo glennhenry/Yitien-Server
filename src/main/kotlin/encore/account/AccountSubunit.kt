@@ -4,8 +4,8 @@ import encore.account.model.Credentials
 import encore.account.model.Profile
 import encore.auth.AuthSubunit
 import encore.datastore.DocumentNotFoundException
-import game.mongo.collection.PlayerAccount
-import game.mongo.collection.PlayerId
+import game.core.mongo.collection.PlayerAccount
+import game.core.mongo.collection.PlayerId
 import encore.fancam.Fancam
 import encore.fancam.Tags
 import encore.subunit.Subunit

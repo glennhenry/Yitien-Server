@@ -1,6 +1,6 @@
 package encore.presence
 
-import game.mongo.collection.PlayerId
+import game.core.mongo.collection.PlayerId
 import encore.fancam.Fancam
 import encore.fancam.Tags
 import encore.network.transport.UndeterminedIdentity

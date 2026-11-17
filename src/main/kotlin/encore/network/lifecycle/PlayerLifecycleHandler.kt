@@ -1,7 +1,7 @@
 package encore.network.lifecycle
 
-import game.context.PlayerContext
-import game.context.ServerContext
+import game.core.context.PlayerContext
+import game.core.context.ServerContext
 import encore.fancam.Fancam
 import encore.fancam.Tags
 import encore.network.transport.Connection

@@ -1,6 +1,6 @@
 package encore.network.handler
 
-import game.mongo.collection.PlayerId
+import game.core.mongo.collection.PlayerId
 import encore.network.fanchant.Fanchant
 import encore.network.transport.Connection
 

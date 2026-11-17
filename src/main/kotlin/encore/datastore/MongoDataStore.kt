@@ -10,8 +10,13 @@ import encore.account.FieldUsername
 import encore.fancam.Fancam
 import encore.fancam.Tags
 import encore.utils.support.asUnit
-import game.mongo.MongoCollections
-import game.mongo.collection.*
+import game.core.mongo.MongoCollections
+import game.core.mongo.collection.PlayerAccount
+import game.core.mongo.collection.PlayerId
+import game.core.mongo.collection.PlayerObjects
+import game.core.mongo.collection.PlayerServerObjects
+import game.core.mongo.collection.ServerObjects
+import game.core.mongo.collection.ServerObjectsId
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
@@ -22,7 +27,7 @@ import kotlin.time.measureTime
 /** `dbId`*/
 val ServerObjectsDbId = ServerObjects::dbId.name
 
-/** Mongo filters for `dbId` equals [ServerObjectsId]*/
+/** Mongo filters for `dbId` equals [game.core.mongo.collection.ServerObjectsId]*/
 val ServerObjectsFilter: Bson = Filters.eq(ServerObjectsDbId, ServerObjectsId)
 
 /**

@@ -1,7 +1,7 @@
 package encore.network.transport
 
 import encore.acts.StageAct
-import game.mongo.collection.PlayerId
+import game.core.mongo.collection.PlayerId
 import encore.fancam.Fancam
 import encore.fancam.INDENT
 import encore.fancam.Tags

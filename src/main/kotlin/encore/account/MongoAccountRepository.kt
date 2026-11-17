@@ -7,8 +7,8 @@ import com.mongodb.kotlin.client.coroutine.MongoCollection
 import encore.account.model.Credentials
 import encore.account.model.Profile
 import encore.datastore.*
-import game.mongo.collection.PlayerAccount
-import game.mongo.collection.PlayerId
+import game.core.mongo.collection.PlayerAccount
+import game.core.mongo.collection.PlayerId
 import kotlinx.coroutines.flow.firstOrNull
 import org.bson.codecs.pojo.annotations.BsonId
 
