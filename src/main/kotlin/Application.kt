@@ -26,8 +26,7 @@ import game.core.context.RealContextFactory
 import game.core.context.ServerContext
 import game.core.mongo.RuntimeMongoCollections
 import game.core.routes.fileRoutes
-import game.socket.AskLoginHandler
-import game.socket.YitienFancantGuide
+import game.auth.AskLoginHandler
 import game.socket.YitienFanchantGuide
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
@@ -220,5 +219,5 @@ fun GameStageInitContext.fanchantGuides() {
 fun GameStageInitContext.handlers(serverContext: ServerContext) {
     // register handlers
 
-    AskLoginHandler()
+    handler(AskLoginHandler())
 }
