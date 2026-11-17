@@ -28,6 +28,7 @@ import game.core.context.ServerContext
 import game.core.mongo.RuntimeMongoCollections
 import game.core.routes.fileRoutes
 import game.auth.AskLoginHandler
+import game.others.HeartbeatHandler
 import game.socket.YitienFanchantGuide
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
@@ -222,4 +223,5 @@ fun GameStageInitContext.handlers(serverContext: ServerContext) {
 
     handler(AskLoginHandler())
     handler(AskCharlistHandler())
+    handler(HeartbeatHandler())
 }
