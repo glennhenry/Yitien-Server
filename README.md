@@ -20,11 +20,11 @@ However, there are still many data issues. As seen in the following video, we co
 
 Not to mention the fully untranslated game.
 
-..video
+[[Gameplay video: Gameplay video]](https://github.com/user-attachments/assets/c0ac9c3c-74b5-4f85-84ca-95b31c14b45b)
 
 # Note
 
-This project is discontinued. The server is basically not working, and is somewhat only at 2% progress approximately.
+This project is basically discontinued. The server is not yet functioning, and is somewhat only at 3% progress approximately.
 
 The next step would be:
 
