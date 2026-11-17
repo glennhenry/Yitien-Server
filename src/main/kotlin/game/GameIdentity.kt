@@ -21,5 +21,5 @@ import encore.EncoreIdentity
 object GameIdentity {
     const val Title = "Yitien Server"
     const val Version = "0.0.1"
-    const val Description = "Learning Chinese..."
+    const val Description = "Learning Mandarin..."
 }
